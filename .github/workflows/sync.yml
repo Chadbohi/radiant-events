@@ -1,4 +1,5 @@
-# Copies the Church Center calendar into events.json, which the website reads.
+# Copies the Church Center calendar into events.json (read by the website) and
+# events.ics (the "Subscribe to this calendar" feed).
 # Runs every 30 minutes, and whenever you press "Run workflow" on the Actions tab.
 name: Sync Church Center events
 
@@ -32,10 +33,10 @@ jobs:
         run: |
           git config user.name "radiant-events-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- events.json && [ -z "$(git status --porcelain events.json)" ]; then
+          if git diff --quiet -- events.json events.ics && [ -z "$(git status --porcelain events.json events.ics)" ]; then
             echo "No change."
           else
-            git add events.json
+            git add events.json events.ics
             git commit -m "Update events ($(date -u +%Y-%m-%dT%H:%MZ))"
             git push
           fi
