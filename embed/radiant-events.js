@@ -2,10 +2,11 @@
    Owned by Radiant (github.com/Chadbohi/radiant-events). Data: events.json,
    refreshed every 30 minutes by the "Sync Church Center events" workflow.
 
-   Paste into a Squarespace Code Block, one of:
+   This script is added once to the whole site (Squarespace: Settings >
+   Developer tools > Code Injection > Footer). Then put one of these in a
+   Code Block wherever events should show:
      <div data-radiant-events="slider"></div>
      <div data-radiant-events="grid" data-count="3"></div>
-     <script src="https://chadbohi.github.io/radiant-events/embed/radiant-events.js" defer></script>
 
    Options (attributes on the div, all optional):
      data-count="9"            how many events to show
@@ -13,6 +14,7 @@
      data-include=""           show only events whose title contains one of these
      data-featured="true"      only events starred as Featured in Planning Center
      data-heading=""           a heading above the events
+     data-full-width="false"   slider: stay inside the section instead of edge to edge
 */
 (function () {
   "use strict";
@@ -55,7 +57,8 @@
     ".re-card__title a{color:inherit!important;text-decoration:none!important;}",
     ".re-card__date{font-size:16px;color:var(--re-muted);margin:0 0 12px;}",
     /* slider */
-    ".re--slider{max-width:none;}",
+    ".re--slider{max-width:none;width:calc(100vw - var(--re-sb,0px));position:relative;left:50%;margin-left:calc((100vw - var(--re-sb,0px)) / -2)!important;}",
+    ".re--slider.re--contained{width:auto;left:auto;margin-left:auto!important;}",
     ".re__viewport{overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;-webkit-overflow-scrolling:touch;}",
     ".re__viewport::-webkit-scrollbar{display:none;}",
     ".re__track{display:flex;gap:24px;padding:0 max(16px,calc((100% - 900px)/2));}",
@@ -309,7 +312,8 @@
       include: root.getAttribute("data-include") || "",
       featured: root.getAttribute("data-featured") === "true"
     };
-    root.className = (root.className ? root.className + " " : "") + "re re--" + layout;
+    root.className = (root.className ? root.className + " " : "") + "re re--" + layout +
+      (root.getAttribute("data-full-width") === "false" ? " re--contained" : "");
     var heading = root.getAttribute("data-heading");
     root.innerHTML = "";
     if (heading) root.appendChild(el("h2", "re__heading", heading));
@@ -341,7 +345,14 @@
     });
   }
 
+  // Edge-to-edge slider: 100vw includes the scrollbar on computers, so subtract it.
+  function measure() {
+    document.documentElement.style.setProperty("--re-sb", (window.innerWidth - document.documentElement.clientWidth) + "px");
+  }
+  window.addEventListener("resize", measure);
+
   function scan() {
+    measure();
     if (!document.getElementById("re-style")) {
       var st = document.createElement("style");
       st.id = "re-style";
