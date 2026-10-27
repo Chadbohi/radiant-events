@@ -7,6 +7,7 @@
    Code Block wherever events should show:
      <div data-radiant-events="slider"></div>
      <div data-radiant-events="grid" data-count="3"></div>
+     <div data-radiant-events="full"></div>   (tabs for upcoming and past, Show more, Subscribe)
 
    Options (attributes on the div, all optional):
      data-count="9"            how many events to show
@@ -21,10 +22,11 @@
   if (window.__radiantEvents) { window.__radiantEvents.scan(); return; }
 
   var FEED = "https://chadbohi.github.io/radiant-events/events.json";
+  var ICS = "chadbohi.github.io/radiant-events/events.ics";
   var CHURCH_CENTER = "https://radiantcentralcoast.churchcenter.com/calendar";
   var TZ = "America/Los_Angeles";
   var STALE_HOURS = 36;
-  var DEFAULTS = { slider: 9, grid: 3 };
+  var DEFAULTS = { slider: 9, grid: 3, full: 12 };
 
   var CSS = [
     ".re{--re-ink:#474D47;--re-cream:#FCF2BF;--re-muted:rgba(71,77,71,.8);--re-line:rgba(190,173,147,.7);--re-ph:rgba(190,173,147,.35);",
@@ -56,6 +58,13 @@
     ".re-card__title{font-family:var(--re-font);font-weight:700;font-size:22.4px;line-height:1.15;text-transform:uppercase;margin:22px 0 8px;}",
     ".re-card__title a{color:inherit!important;text-decoration:none!important;}",
     ".re-card__date{font-size:16px;color:var(--re-muted);margin:0 0 12px;}",
+    /* full: tabs, show more, subscribe */
+    ".re__tabs{display:flex;gap:28px;margin:0 0 28px;flex-wrap:wrap;}",
+    ".re__tab{background:none;border:0;border-bottom:2px solid transparent;padding:0 0 6px;font:inherit;font-size:16px;letter-spacing:.06em;text-transform:uppercase;color:var(--re-muted);cursor:pointer;}",
+    ".re__tab.is-active{color:var(--re-ink);border-color:var(--re-ink);font-weight:700;}",
+    ".re__more{display:flex;margin:40px auto 0;}",
+    ".re__foot{text-align:center;margin-top:36px;}",
+    ".re__foot .re-pill{display:inline-flex;}",
     /* slider */
     ".re--slider{max-width:none;width:calc(100vw - var(--re-sb,0px));position:relative;left:50%;margin-left:calc((100vw - var(--re-sb,0px)) / -2)!important;}",
     ".re--slider.re--contained{width:auto;left:auto;margin-left:auto!important;}",
@@ -138,7 +147,7 @@
     if (menuFor) menuFor.setAttribute("aria-expanded", "false");
     menuFor = null;
   }
-  function openMenu(btn, ev) {
+  function openMenu(btn, ev, items) {
     if (!menu) {
       menu = el("div", "re re__menu");
       menu.setAttribute("role", "menu");
@@ -146,11 +155,14 @@
       document.body.appendChild(menu);
     }
     menu.innerHTML = "";
-    var g = link(gcalLink(ev), "", "Google Calendar");
-    var ics = link(icsLink(ev), "", "Apple / Outlook");
-    ics.removeAttribute("target");
-    ics.setAttribute("download", ev.title.replace(/[^\w\- ]+/g, "").trim() + ".ics");
-    [g, ics].forEach(function (a) { a.setAttribute("role", "menuitem"); menu.appendChild(a); });
+    if (!items) {
+      var ics = link(icsLink(ev), "", "Apple / Outlook");
+      ics.removeAttribute("target");
+      ics.setAttribute("download", ev.title.replace(/[^\w\- ]+/g, "").trim() + ".ics");
+      items = [link(gcalLink(ev), "", "Google Calendar"), ics];
+    }
+    var g = items[0];
+    items.forEach(function (a) { a.setAttribute("role", "menuitem"); menu.appendChild(a); });
     menu.style.display = "block";
     var r = btn.getBoundingClientRect(), mw = menu.offsetWidth, mh = menu.offsetHeight;
     var left = Math.max(8, Math.min(r.left, window.innerWidth - mw - 8));
@@ -166,10 +178,11 @@
   window.addEventListener("scroll", closeMenus, true);
   window.addEventListener("resize", closeMenus);
 
-  function pills(ev) {
+  function pills(ev, past) {
     var box = el("div", "re__pills");
-    if (ev.registration_url) box.appendChild(link(ev.registration_url, "re-pill re-pill--solid", "Register"));
+    if (ev.registration_url && !past) box.appendChild(link(ev.registration_url, "re-pill re-pill--solid", "Register"));
     else box.appendChild(link(ev.details_url, "re-pill re-pill--solid", "Details"));
+    if (past) return box;
     var b = el("button", "re-pill", "Add to calendar");
     b.type = "button";
     b.setAttribute("aria-haspopup", "menu");
@@ -199,7 +212,7 @@
   }
 
   /* -- layouts ---------------------------------------- */
-  function card(ev) {
+  function card(ev, past) {
     var c = el("article", "re-card");
     var m = media(ev, "re-card__media");
     var tag = el("span", "re-card__tag");
@@ -213,7 +226,7 @@
     h.appendChild(link(ev.registration_url || ev.details_url, "", curly(ev.title)));
     c.appendChild(h);
     c.appendChild(el("p", "re-card__date", when(ev)));
-    c.appendChild(pills(ev));
+    c.appendChild(pills(ev, past));
     return c;
   }
 
@@ -275,6 +288,88 @@
     });
   }
 
+  function buildFull(root, data, opts) {
+    var tabs = el("div", "re__tabs");
+    tabs.setAttribute("role", "tablist");
+    var body = el("div");
+    var views = [["upcoming", "Upcoming"], ["past", "Past events"]];
+    var buttons = views.map(function (v, i) {
+      var b = el("button", "re__tab" + (i === 0 ? " is-active" : ""), v[1]);
+      b.type = "button";
+      b.setAttribute("role", "tab");
+      b.setAttribute("aria-selected", String(i === 0));
+      b.addEventListener("click", function () { show(v[0]); });
+      tabs.appendChild(b);
+      return b;
+    });
+    root.appendChild(tabs);
+    root.appendChild(body);
+    var foot = el("div", "re__foot");
+    var sub = el("button", "re-pill", "Subscribe to this calendar");
+    sub.type = "button";
+    sub.setAttribute("aria-haspopup", "menu");
+    sub.addEventListener("click", function (e) {
+      e.stopPropagation();
+      if (menuFor === sub) { closeMenus(); return; }
+      closeMenus();
+      var apple = link("webcal://" + ICS, "", "Apple / Outlook");
+      apple.removeAttribute("target");
+      openMenu(sub, null, [apple, link("https://calendar.google.com/calendar/r?cid=" + encodeURIComponent("webcal://" + ICS), "", "Google Calendar")]);
+    });
+    foot.appendChild(sub);
+    root.appendChild(foot);
+
+    function show(view) {
+      var past = view === "past";
+      buttons.forEach(function (b, i) {
+        var on = views[i][0] === view;
+        b.classList.toggle("is-active", on);
+        b.setAttribute("aria-selected", String(on));
+      });
+      foot.style.display = past ? "none" : "";
+      var all = pick(data, { include: opts.include, exclude: opts.exclude, featured: opts.featured, all: true }, past);
+      body.innerHTML = "";
+      if (!all.length) {
+        body.appendChild(el("p", "re__msg", past ? "No past events yet." : "No upcoming events right now. Check back soon."));
+        return;
+      }
+      var grid = el("div", "re__list"), shown = 0;
+      body.appendChild(grid);
+      var more = el("button", "re-pill re__more", "Show more");
+      more.type = "button";
+      function page() {
+        all.slice(shown, shown + opts.count).forEach(function (ev) { grid.appendChild(card(ev, past)); });
+        shown = Math.min(all.length, shown + opts.count);
+        more.style.display = shown < all.length ? "" : "none";
+      }
+      more.addEventListener("click", page);
+      body.appendChild(more);
+      page();
+    }
+    root.className += " re--grid";
+    show("upcoming");
+    if (root.getAttribute("data-seo") !== "false") seo(pick(data, { exclude: opts.exclude, include: opts.include, all: true }).slice(0, 20));
+  }
+
+  // Lets Google show upcoming events in search results.
+  function seo(events) {
+    if (!events.length || document.getElementById("re-seo")) return;
+    var s = document.createElement("script");
+    s.type = "application/ld+json";
+    s.id = "re-seo";
+    s.textContent = JSON.stringify(events.map(function (ev) {
+      var o = {
+        "@context": "https://schema.org", "@type": "Event", name: ev.title, startDate: ev.start, endDate: ev.end,
+        eventStatus: "https://schema.org/EventScheduled", eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
+        url: ev.details_url, description: ev.description || undefined, image: ev.image ? [ev.image] : undefined,
+        organizer: { "@type": "Organization", name: "Radiant Central Coast", url: "https://radiantcentralcoast.com" }
+      };
+      if (ev.location || ev.location_name) o.location = { "@type": "Place", name: ev.location_name || ev.location, address: ev.location || ev.location_name };
+      return o;
+    })).replace(/</g, "\\u003c");
+    document.head.appendChild(s);
+  }
+
   /* -- data ---------------------------------------- */
   var feed = null;
   function load() {
@@ -287,11 +382,14 @@
     return feed;
   }
 
-  function pick(data, opts) {
+  function pick(data, opts, past) {
     var now = Date.now(), seen = {}, out = [];
     var inc = list(opts.include), exc = list(opts.exclude);
-    (data.events || []).forEach(function (ev) {
-      if (new Date(ev.end || ev.start).getTime() < now) return;      // already over
+    var all = (data.events || []).slice();
+    if (past) all.reverse();                                         // most recent first
+    all.forEach(function (ev) {
+      var over = new Date(ev.end || ev.start).getTime() < now;
+      if (over !== !!past) return;
       var t = fold(ev.title);
       if (exc.some(function (x) { return t.indexOf(x) !== -1; })) return;
       if (inc.length && !inc.some(function (x) { return t.indexOf(x) !== -1; })) return;
@@ -300,12 +398,13 @@
       seen[ev.event_id] = true;
       out.push(ev);
     });
-    return out.slice(0, opts.count);
+    return opts.all ? out : out.slice(0, opts.count);
   }
 
   function render(root) {
     root.setAttribute("data-re-ready", "1");
-    var layout = (root.getAttribute("data-radiant-events") || "grid").toLowerCase() === "slider" ? "slider" : "grid";
+    var layout = (root.getAttribute("data-radiant-events") || "grid").toLowerCase();
+    if (layout !== "slider" && layout !== "full") layout = "grid";
     var opts = {
       count: parseInt(root.getAttribute("data-count"), 10) || DEFAULTS[layout],
       exclude: root.hasAttribute("data-exclude") ? root.getAttribute("data-exclude") : "Espa\u00f1ol",
@@ -328,10 +427,11 @@
         root.appendChild(st);
       }
       var events = pick(data, opts);
-      if (!events.length) {
+      if (!events.length && layout !== "full") {
         root.appendChild(el("p", "re__msg", "No upcoming events right now. Check back soon."));
         return;
       }
+      if (layout === "full") { buildFull(root, data, opts); return; }
       if (layout === "slider") buildSlider(root, events);
       else {
         var grid = el("div", "re__list");
