@@ -5,13 +5,14 @@ Runs on GitHub Actions (see .github/workflows/sync.yml). It reads only what
 anyone can see on radiantcentralcoast.churchcenter.com/calendar, so it needs
 no password or key. Standard library only.
 """
-import html, json, re, sys, time, urllib.request
+import html, json, os, re, sys, time, urllib.request
 from datetime import datetime, timezone, timedelta
 
 SUBDOMAIN = "radiantcentralcoast"
 CAL_PAGE = f"https://{SUBDOMAIN}.churchcenter.com/calendar?view=list"
 API = "https://api.churchcenter.com/calendar/v2/events"
 DAYS_AHEAD = 365
+DAYS_BACK = 180      # past events kept for the "Past events" tab
 UA = "Mozilla/5.0 (compatible; RadiantEventsSync/1.0; +https://radiantcentralcoast.com)"
 
 
@@ -43,12 +44,8 @@ def text_of(desc_html):
     return re.sub(r"\n\s*\n+", "\n\n", t).strip()
 
 
-def main():
-    token = visitor_token()
-    auth = {"Authorization": "Bearer " + token}
-    url = API + "?include=location,event_registration_url&filter=upcoming&order=visible_starts_at&per_page=100"
-    until = datetime.now(timezone.utc) + timedelta(days=DAYS_AHEAD)
-    raw, places, regs = [], {}, {}
+def fetch_all(url, auth, places, regs, stop_after=None):
+    raw = []
     while url:
         d = json.loads(get(url, auth))
         for inc in d.get("included", []):
@@ -58,14 +55,62 @@ def main():
                 regs[inc["id"]] = inc["attributes"].get("url")
         raw.extend(d.get("data", []))
         url = (d.get("links") or {}).get("next")
-        if raw and raw[-1]["attributes"]["starts_at"] > until.strftime("%Y-%m-%dT%H:%M:%SZ"):
+        if stop_after and raw and raw[-1]["attributes"]["starts_at"] > stop_after:
             break
+    return raw
 
-    events = []
+
+def iso(dt):
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def ics(events, now):
+    """A calendar people can subscribe to (Apple, Google, Outlook)."""
+    def esc(t):
+        return str(t or "").replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+    def fold(line):  # lines longer than 75 bytes continue on the next line, starting with a space
+        out, b = [], line.encode("utf-8")
+        while len(b) > 75:
+            cut = 75
+            while (b[cut] & 0xC0) == 0x80:
+                cut -= 1
+            out.append(b[:cut].decode("utf-8"))
+            b = b" " + b[cut:]
+        out.append(b.decode("utf-8"))
+        return "\r\n".join(out)
+    stamp = now.strftime("%Y%m%dT%H%M%SZ")
+    t = lambda s: s.replace("-", "").replace(":", "")
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Radiant Central Coast//Events//EN", "CALSCALE:GREGORIAN",
+             "METHOD:PUBLISH", "X-WR-CALNAME:Radiant Central Coast", "X-WR-TIMEZONE:America/Los_Angeles",
+             "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
+    for e in events:
+        lines += ["BEGIN:VEVENT", f"UID:{e['id']}@radiantcentralcoast.churchcenter.com", f"DTSTAMP:{stamp}"]
+        if e["all_day"]:
+            lines += [f"DTSTART;VALUE=DATE:{e['start'][:10].replace('-', '')}", f"DTEND;VALUE=DATE:{e['end'][:10].replace('-', '')}"]
+        else:
+            lines += [f"DTSTART:{t(e['start'])}", f"DTEND:{t(e['end'])}"]
+        lines += ["SUMMARY:" + esc(e["title"]), "DESCRIPTION:" + esc((e["description"] + "\n\n" if e["description"] else "") + e["details_url"]),
+                  "LOCATION:" + esc(e["location"] or e["location_name"]), "URL:" + e["details_url"], "END:VEVENT"]
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(fold(l) for l in lines) + "\r\n"
+
+
+def main():
+    token = visitor_token()
+    auth = {"Authorization": "Bearer " + token}
+    now = datetime.now(timezone.utc)
+    until, since = iso(now + timedelta(days=DAYS_AHEAD)), iso(now - timedelta(days=DAYS_BACK))
+    places, regs = {}, {}
+    base = API + "?include=location,event_registration_url&order=visible_starts_at&per_page=100"
+    raw = fetch_all(base + "&filter=upcoming", auth, places, regs, stop_after=until)
+    raw += fetch_all(base + f"&where%5Bstarts_at%5D%5Bgte%5D={since}&where%5Bstarts_at%5D%5Blt%5D={iso(now)}", auth, places, regs)
+
+    events, seen = [], set()
     for e in raw:
         a, rel = e["attributes"], e.get("relationships", {})
-        if a["starts_at"] > until.strftime("%Y-%m-%dT%H:%M:%SZ"):
+        if e["id"] in seen or a["starts_at"] > until or a["starts_at"] < since:
             continue
+        seen.add(e["id"])
         loc = places.get(((rel.get("location") or {}).get("data") or {}).get("id"), {})
         reg = regs.get(((rel.get("event_registration_url") or {}).get("data") or {}).get("id"))
         events.append({
@@ -91,7 +136,7 @@ def main():
         raise SystemExit("Church Center returned no upcoming events; keeping the last good file.")
 
     out = {
-        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at": iso(now),
         "source": CAL_PAGE.split("?")[0],
         "timezone": "America/Los_Angeles",
         "count": len(events),
@@ -103,13 +148,15 @@ def main():
         with open("events.json", encoding="utf-8") as f:
             old = json.load(f)
         age = datetime.now(timezone.utc) - datetime.strptime(old["generated_at"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-        if old.get("events") == events and age < timedelta(hours=6):
+        if old.get("events") == events and age < timedelta(hours=6) and os.path.exists("events.ics"):
             print(f"no change ({len(events)} events)")
             return
     except (OSError, ValueError, KeyError):
         pass
     with open("events.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, separators=(",", ":"))
+    with open("events.ics", "w", encoding="utf-8", newline="") as f:
+        f.write(ics(events, now))
     print(f"wrote {len(events)} events")
 
 
