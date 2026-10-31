@@ -8,23 +8,8 @@ X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:220172725@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
-DTSTART:20260504T000000Z
-DTEND:20260504T020000Z
-SUMMARY:Radiant Membership Dinner
-DESCRIPTION:This dinner is for those who are ready to take their next step 
- and formally become a "covenant member" of our local church here at Radian
- t. In a generation full of fear and anxiety with commitment\, we want to g
- row deep roots in the gospel together and become an outpost of the kingdom
-  of God as a covenant community built on Jesus Christ.\n\nhttps://radiantc
- entralcoast.churchcenter.com/calendar/event/220172725
-LOCATION:675 W. Grand Ave\, Grover Beach\, CA 93443
-URL:https://radiantcentralcoast.churchcenter.com/calendar/event/220172725
-END:VEVENT
-BEGIN:VEVENT
 UID:200272996@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260504T140000Z
 DTEND:20260504T150000Z
 SUMMARY:Altar
@@ -35,7 +20,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272996
 END:VEVENT
 BEGIN:VEVENT
 UID:200273208@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260505T160000Z
 DTEND:20260505T170000Z
 SUMMARY:Altar
@@ -46,7 +31,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273208
 END:VEVENT
 BEGIN:VEVENT
 UID:200272317@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260506T190000Z
 DTEND:20260506T200000Z
 SUMMARY:Altar
@@ -57,7 +42,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272317
 END:VEVENT
 BEGIN:VEVENT
 UID:222228569@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260507T013000Z
 DTEND:20260507T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -69,7 +54,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228569
 END:VEVENT
 BEGIN:VEVENT
 UID:222228861@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260508T013000Z
 DTEND:20260508T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -82,7 +67,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228861
 END:VEVENT
 BEGIN:VEVENT
 UID:200191840@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260508T143000Z
 DTEND:20260508T153000Z
 SUMMARY:Men's Bible Study
@@ -95,7 +80,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191840
 END:VEVENT
 BEGIN:VEVENT
 UID:200190637@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260510T163000Z
 DTEND:20260510T183000Z
 SUMMARY:Sunday Gathering
@@ -108,7 +93,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190637
 END:VEVENT
 BEGIN:VEVENT
 UID:200272997@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260511T140000Z
 DTEND:20260511T150000Z
 SUMMARY:Altar
@@ -119,7 +104,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272997
 END:VEVENT
 BEGIN:VEVENT
 UID:200273209@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260512T160000Z
 DTEND:20260512T170000Z
 SUMMARY:Altar
@@ -130,7 +115,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273209
 END:VEVENT
 BEGIN:VEVENT
 UID:200272318@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260513T190000Z
 DTEND:20260513T200000Z
 SUMMARY:Altar
@@ -141,7 +126,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272318
 END:VEVENT
 BEGIN:VEVENT
 UID:222228570@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260514T013000Z
 DTEND:20260514T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -153,7 +138,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228570
 END:VEVENT
 BEGIN:VEVENT
 UID:222226153@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260515T013000Z
 DTEND:20260515T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -166,7 +151,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226153
 END:VEVENT
 BEGIN:VEVENT
 UID:200191841@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260515T143000Z
 DTEND:20260515T153000Z
 SUMMARY:Men's Bible Study
@@ -179,7 +164,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191841
 END:VEVENT
 BEGIN:VEVENT
 UID:200190638@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260517T163000Z
 DTEND:20260517T183000Z
 SUMMARY:Sunday Gathering
@@ -192,7 +177,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190638
 END:VEVENT
 BEGIN:VEVENT
 UID:200272998@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260518T140000Z
 DTEND:20260518T150000Z
 SUMMARY:Altar
@@ -203,7 +188,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272998
 END:VEVENT
 BEGIN:VEVENT
 UID:200273210@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260519T160000Z
 DTEND:20260519T170000Z
 SUMMARY:Altar
@@ -214,7 +199,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273210
 END:VEVENT
 BEGIN:VEVENT
 UID:200272319@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260520T190000Z
 DTEND:20260520T200000Z
 SUMMARY:Altar
@@ -225,7 +210,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272319
 END:VEVENT
 BEGIN:VEVENT
 UID:222228571@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260521T013000Z
 DTEND:20260521T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -237,7 +222,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228571
 END:VEVENT
 BEGIN:VEVENT
 UID:222226154@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260522T013000Z
 DTEND:20260522T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -250,7 +235,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226154
 END:VEVENT
 BEGIN:VEVENT
 UID:200191842@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260522T143000Z
 DTEND:20260522T153000Z
 SUMMARY:Men's Bible Study
@@ -263,7 +248,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191842
 END:VEVENT
 BEGIN:VEVENT
 UID:200190639@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260524T163000Z
 DTEND:20260524T183000Z
 SUMMARY:Sunday Gathering
@@ -276,7 +261,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190639
 END:VEVENT
 BEGIN:VEVENT
 UID:200272999@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260525T140000Z
 DTEND:20260525T150000Z
 SUMMARY:Altar
@@ -287,7 +272,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272999
 END:VEVENT
 BEGIN:VEVENT
 UID:200273211@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260526T160000Z
 DTEND:20260526T170000Z
 SUMMARY:Altar
@@ -298,7 +283,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273211
 END:VEVENT
 BEGIN:VEVENT
 UID:200272320@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260527T190000Z
 DTEND:20260527T200000Z
 SUMMARY:Altar
@@ -309,7 +294,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272320
 END:VEVENT
 BEGIN:VEVENT
 UID:222225941@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260528T013000Z
 DTEND:20260528T033000Z
 SUMMARY:Español - ALTAR
@@ -321,7 +306,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225941
 END:VEVENT
 BEGIN:VEVENT
 UID:222228572@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260528T013000Z
 DTEND:20260528T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -333,7 +318,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228572
 END:VEVENT
 BEGIN:VEVENT
 UID:222226155@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260529T013000Z
 DTEND:20260529T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -346,7 +331,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226155
 END:VEVENT
 BEGIN:VEVENT
 UID:200191843@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260529T143000Z
 DTEND:20260529T153000Z
 SUMMARY:Men's Bible Study
@@ -359,7 +344,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191843
 END:VEVENT
 BEGIN:VEVENT
 UID:200190640@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260531T163000Z
 DTEND:20260531T183000Z
 SUMMARY:Sunday Gathering
@@ -372,7 +357,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190640
 END:VEVENT
 BEGIN:VEVENT
 UID:200273000@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260601T140000Z
 DTEND:20260601T150000Z
 SUMMARY:Altar
@@ -383,7 +368,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273000
 END:VEVENT
 BEGIN:VEVENT
 UID:200273212@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260602T160000Z
 DTEND:20260602T170000Z
 SUMMARY:Altar
@@ -394,7 +379,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273212
 END:VEVENT
 BEGIN:VEVENT
 UID:200272321@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260603T190000Z
 DTEND:20260603T200000Z
 SUMMARY:Altar
@@ -405,7 +390,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272321
 END:VEVENT
 BEGIN:VEVENT
 UID:222228573@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260604T013000Z
 DTEND:20260604T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -417,7 +402,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228573
 END:VEVENT
 BEGIN:VEVENT
 UID:222226156@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260605T013000Z
 DTEND:20260605T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -430,7 +415,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226156
 END:VEVENT
 BEGIN:VEVENT
 UID:200191844@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260605T143000Z
 DTEND:20260605T153000Z
 SUMMARY:Men's Bible Study
@@ -443,7 +428,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191844
 END:VEVENT
 BEGIN:VEVENT
 UID:200190641@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260607T163000Z
 DTEND:20260607T183000Z
 SUMMARY:Sunday Gathering
@@ -456,7 +441,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190641
 END:VEVENT
 BEGIN:VEVENT
 UID:200273001@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260608T140000Z
 DTEND:20260608T150000Z
 SUMMARY:Altar
@@ -467,7 +452,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273001
 END:VEVENT
 BEGIN:VEVENT
 UID:200273213@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260609T160000Z
 DTEND:20260609T170000Z
 SUMMARY:Altar
@@ -478,7 +463,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273213
 END:VEVENT
 BEGIN:VEVENT
 UID:225578871@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260609T160000Z
 DTEND:20260609T173000Z
 SUMMARY:Men's Breakfast
@@ -490,7 +475,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/225578871
 END:VEVENT
 BEGIN:VEVENT
 UID:200272322@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260610T190000Z
 DTEND:20260610T200000Z
 SUMMARY:Altar
@@ -501,7 +486,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272322
 END:VEVENT
 BEGIN:VEVENT
 UID:222228574@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260611T013000Z
 DTEND:20260611T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -513,7 +498,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228574
 END:VEVENT
 BEGIN:VEVENT
 UID:222226157@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260612T013000Z
 DTEND:20260612T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -526,7 +511,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226157
 END:VEVENT
 BEGIN:VEVENT
 UID:200191845@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260612T143000Z
 DTEND:20260612T153000Z
 SUMMARY:Men's Bible Study
@@ -539,7 +524,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191845
 END:VEVENT
 BEGIN:VEVENT
 UID:200190642@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260614T163000Z
 DTEND:20260614T183000Z
 SUMMARY:Sunday Gathering
@@ -552,7 +537,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190642
 END:VEVENT
 BEGIN:VEVENT
 UID:200273002@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260615T140000Z
 DTEND:20260615T150000Z
 SUMMARY:Altar
@@ -563,7 +548,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273002
 END:VEVENT
 BEGIN:VEVENT
 UID:200273214@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260616T160000Z
 DTEND:20260616T170000Z
 SUMMARY:Altar
@@ -574,7 +559,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273214
 END:VEVENT
 BEGIN:VEVENT
 UID:200272323@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260617T190000Z
 DTEND:20260617T200000Z
 SUMMARY:Altar
@@ -585,7 +570,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272323
 END:VEVENT
 BEGIN:VEVENT
 UID:222228575@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260618T013000Z
 DTEND:20260618T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -597,7 +582,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228575
 END:VEVENT
 BEGIN:VEVENT
 UID:222226158@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260619T013000Z
 DTEND:20260619T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -610,7 +595,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226158
 END:VEVENT
 BEGIN:VEVENT
 UID:200191846@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260619T143000Z
 DTEND:20260619T153000Z
 SUMMARY:Men's Bible Study
@@ -623,7 +608,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191846
 END:VEVENT
 BEGIN:VEVENT
 UID:225580437@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260620T160000Z
 DTEND:20260620T173000Z
 SUMMARY:Men's Breakfast
@@ -635,7 +620,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/225580437
 END:VEVENT
 BEGIN:VEVENT
 UID:200190643@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260621T163000Z
 DTEND:20260621T183000Z
 SUMMARY:Sunday Gathering
@@ -648,7 +633,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190643
 END:VEVENT
 BEGIN:VEVENT
 UID:200273003@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260622T140000Z
 DTEND:20260622T150000Z
 SUMMARY:Altar
@@ -659,7 +644,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273003
 END:VEVENT
 BEGIN:VEVENT
 UID:200273215@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260623T160000Z
 DTEND:20260623T170000Z
 SUMMARY:Altar
@@ -670,7 +655,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273215
 END:VEVENT
 BEGIN:VEVENT
 UID:224640936@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260623T190000Z
 DTEND:20260623T210000Z
 SUMMARY:Kids Park Day
@@ -681,7 +666,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/224640936
 END:VEVENT
 BEGIN:VEVENT
 UID:200272324@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260624T190000Z
 DTEND:20260624T200000Z
 SUMMARY:Altar
@@ -692,7 +677,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272324
 END:VEVENT
 BEGIN:VEVENT
 UID:222225942@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260625T013000Z
 DTEND:20260625T033000Z
 SUMMARY:Español - ALTAR
@@ -704,7 +689,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225942
 END:VEVENT
 BEGIN:VEVENT
 UID:222228576@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260625T013000Z
 DTEND:20260625T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -716,7 +701,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228576
 END:VEVENT
 BEGIN:VEVENT
 UID:224303503@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260626T013000Z
 DTEND:20260626T030000Z
 SUMMARY:Contend for the Coast
@@ -727,7 +712,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/224303503
 END:VEVENT
 BEGIN:VEVENT
 UID:222226159@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260626T013000Z
 DTEND:20260626T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -740,7 +725,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226159
 END:VEVENT
 BEGIN:VEVENT
 UID:200191847@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260626T143000Z
 DTEND:20260626T153000Z
 SUMMARY:Men's Bible Study
@@ -753,7 +738,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191847
 END:VEVENT
 BEGIN:VEVENT
 UID:200190644@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260628T163000Z
 DTEND:20260628T183000Z
 SUMMARY:Sunday Gathering
@@ -766,7 +751,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190644
 END:VEVENT
 BEGIN:VEVENT
 UID:200273004@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260629T140000Z
 DTEND:20260629T150000Z
 SUMMARY:Altar
@@ -777,7 +762,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273004
 END:VEVENT
 BEGIN:VEVENT
 UID:200273216@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260630T160000Z
 DTEND:20260630T170000Z
 SUMMARY:Altar
@@ -788,7 +773,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273216
 END:VEVENT
 BEGIN:VEVENT
 UID:200272325@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260701T190000Z
 DTEND:20260701T200000Z
 SUMMARY:Altar
@@ -799,7 +784,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272325
 END:VEVENT
 BEGIN:VEVENT
 UID:222228577@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260702T013000Z
 DTEND:20260702T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -811,7 +796,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228577
 END:VEVENT
 BEGIN:VEVENT
 UID:222226160@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260703T013000Z
 DTEND:20260703T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -824,7 +809,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226160
 END:VEVENT
 BEGIN:VEVENT
 UID:200191848@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260703T143000Z
 DTEND:20260703T153000Z
 SUMMARY:Men's Bible Study
@@ -837,7 +822,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191848
 END:VEVENT
 BEGIN:VEVENT
 UID:200190645@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260705T163000Z
 DTEND:20260705T183000Z
 SUMMARY:Sunday Gathering
@@ -850,7 +835,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190645
 END:VEVENT
 BEGIN:VEVENT
 UID:200273005@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260706T140000Z
 DTEND:20260706T150000Z
 SUMMARY:Altar
@@ -861,7 +846,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273005
 END:VEVENT
 BEGIN:VEVENT
 UID:200273217@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260707T160000Z
 DTEND:20260707T170000Z
 SUMMARY:Altar
@@ -872,7 +857,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273217
 END:VEVENT
 BEGIN:VEVENT
 UID:200272326@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260708T190000Z
 DTEND:20260708T200000Z
 SUMMARY:Altar
@@ -883,7 +868,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272326
 END:VEVENT
 BEGIN:VEVENT
 UID:224640585@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260709T003000Z
 DTEND:20260709T023000Z
 SUMMARY:Girls Game Night
@@ -894,7 +879,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/224640585
 END:VEVENT
 BEGIN:VEVENT
 UID:222228578@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260709T013000Z
 DTEND:20260709T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -906,7 +891,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228578
 END:VEVENT
 BEGIN:VEVENT
 UID:222226161@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260710T013000Z
 DTEND:20260710T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -919,7 +904,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226161
 END:VEVENT
 BEGIN:VEVENT
 UID:200191849@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260710T143000Z
 DTEND:20260710T153000Z
 SUMMARY:Men's Bible Study
@@ -932,7 +917,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191849
 END:VEVENT
 BEGIN:VEVENT
 UID:200190646@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260712T163000Z
 DTEND:20260712T183000Z
 SUMMARY:Sunday Gathering
@@ -945,7 +930,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190646
 END:VEVENT
 BEGIN:VEVENT
 UID:200273006@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260713T140000Z
 DTEND:20260713T150000Z
 SUMMARY:Altar
@@ -956,7 +941,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273006
 END:VEVENT
 BEGIN:VEVENT
 UID:200273218@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260714T160000Z
 DTEND:20260714T170000Z
 SUMMARY:Altar
@@ -967,7 +952,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273218
 END:VEVENT
 BEGIN:VEVENT
 UID:200272327@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260715T190000Z
 DTEND:20260715T200000Z
 SUMMARY:Altar
@@ -978,7 +963,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272327
 END:VEVENT
 BEGIN:VEVENT
 UID:222228579@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260716T013000Z
 DTEND:20260716T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -990,7 +975,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228579
 END:VEVENT
 BEGIN:VEVENT
 UID:227396418@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260717T013000Z
 DTEND:20260717T033000Z
 SUMMARY:Contend for the Coast
@@ -1001,7 +986,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/227396418
 END:VEVENT
 BEGIN:VEVENT
 UID:222226162@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260717T013000Z
 DTEND:20260717T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1014,7 +999,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226162
 END:VEVENT
 BEGIN:VEVENT
 UID:200191850@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260717T143000Z
 DTEND:20260717T153000Z
 SUMMARY:Men's Bible Study
@@ -1027,7 +1012,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191850
 END:VEVENT
 BEGIN:VEVENT
 UID:228279503@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260718T160000Z
 DTEND:20260718T173000Z
 SUMMARY:Men's Breakfast
@@ -1039,7 +1024,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/228279503
 END:VEVENT
 BEGIN:VEVENT
 UID:200190647@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260719T163000Z
 DTEND:20260719T183000Z
 SUMMARY:Sunday Gathering
@@ -1052,7 +1037,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190647
 END:VEVENT
 BEGIN:VEVENT
 UID:200273007@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260720T140000Z
 DTEND:20260720T150000Z
 SUMMARY:Altar
@@ -1063,7 +1048,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273007
 END:VEVENT
 BEGIN:VEVENT
 UID:200272328@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260722T190000Z
 DTEND:20260722T200000Z
 SUMMARY:Altar
@@ -1074,7 +1059,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272328
 END:VEVENT
 BEGIN:VEVENT
 UID:222228580@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260723T013000Z
 DTEND:20260723T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1086,7 +1071,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228580
 END:VEVENT
 BEGIN:VEVENT
 UID:222226163@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260724T013000Z
 DTEND:20260724T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1099,7 +1084,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226163
 END:VEVENT
 BEGIN:VEVENT
 UID:200191851@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260724T143000Z
 DTEND:20260724T153000Z
 SUMMARY:Men's Bible Study
@@ -1112,7 +1097,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191851
 END:VEVENT
 BEGIN:VEVENT
 UID:200190648@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260726T163000Z
 DTEND:20260726T183000Z
 SUMMARY:Sunday Gathering
@@ -1125,7 +1110,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190648
 END:VEVENT
 BEGIN:VEVENT
 UID:200273008@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260727T140000Z
 DTEND:20260727T150000Z
 SUMMARY:Altar
@@ -1136,7 +1121,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273008
 END:VEVENT
 BEGIN:VEVENT
 UID:200272329@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260729T190000Z
 DTEND:20260729T200000Z
 SUMMARY:Altar
@@ -1147,7 +1132,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272329
 END:VEVENT
 BEGIN:VEVENT
 UID:222225943@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260730T013000Z
 DTEND:20260730T033000Z
 SUMMARY:Español - ALTAR
@@ -1159,7 +1144,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225943
 END:VEVENT
 BEGIN:VEVENT
 UID:222228581@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260730T013000Z
 DTEND:20260730T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1171,7 +1156,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228581
 END:VEVENT
 BEGIN:VEVENT
 UID:222226164@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260731T013000Z
 DTEND:20260731T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1184,7 +1169,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226164
 END:VEVENT
 BEGIN:VEVENT
 UID:200191852@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260731T143000Z
 DTEND:20260731T153000Z
 SUMMARY:Men's Bible Study
@@ -1197,7 +1182,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191852
 END:VEVENT
 BEGIN:VEVENT
 UID:200190649@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260802T163000Z
 DTEND:20260802T183000Z
 SUMMARY:Sunday Gathering
@@ -1210,7 +1195,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190649
 END:VEVENT
 BEGIN:VEVENT
 UID:200273009@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260803T140000Z
 DTEND:20260803T150000Z
 SUMMARY:Altar
@@ -1221,7 +1206,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273009
 END:VEVENT
 BEGIN:VEVENT
 UID:200272330@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260805T190000Z
 DTEND:20260805T200000Z
 SUMMARY:Altar
@@ -1232,7 +1217,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272330
 END:VEVENT
 BEGIN:VEVENT
 UID:222228582@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260806T013000Z
 DTEND:20260806T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1244,7 +1229,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228582
 END:VEVENT
 BEGIN:VEVENT
 UID:222226165@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260807T013000Z
 DTEND:20260807T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1257,7 +1242,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226165
 END:VEVENT
 BEGIN:VEVENT
 UID:200191853@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260807T143000Z
 DTEND:20260807T153000Z
 SUMMARY:Men's Bible Study
@@ -1270,7 +1255,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191853
 END:VEVENT
 BEGIN:VEVENT
 UID:200190650@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260809T163000Z
 DTEND:20260809T183000Z
 SUMMARY:Sunday Gathering
@@ -1283,7 +1268,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190650
 END:VEVENT
 BEGIN:VEVENT
 UID:200273010@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260810T140000Z
 DTEND:20260810T150000Z
 SUMMARY:Altar
@@ -1294,7 +1279,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273010
 END:VEVENT
 BEGIN:VEVENT
 UID:200272331@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260812T190000Z
 DTEND:20260812T200000Z
 SUMMARY:Altar
@@ -1305,7 +1290,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272331
 END:VEVENT
 BEGIN:VEVENT
 UID:222228583@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260813T013000Z
 DTEND:20260813T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1317,7 +1302,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228583
 END:VEVENT
 BEGIN:VEVENT
 UID:222226166@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260814T013000Z
 DTEND:20260814T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1330,7 +1315,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226166
 END:VEVENT
 BEGIN:VEVENT
 UID:200191854@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260814T143000Z
 DTEND:20260814T153000Z
 SUMMARY:Men's Bible Study
@@ -1343,7 +1328,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191854
 END:VEVENT
 BEGIN:VEVENT
 UID:200190651@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260816T163000Z
 DTEND:20260816T183000Z
 SUMMARY:Sunday Gathering
@@ -1356,7 +1341,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190651
 END:VEVENT
 BEGIN:VEVENT
 UID:229210467@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260817T003000Z
 DTEND:20260817T023000Z
 SUMMARY:New Member's Dinner
@@ -1370,7 +1355,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/229210467
 END:VEVENT
 BEGIN:VEVENT
 UID:200273011@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260817T140000Z
 DTEND:20260817T150000Z
 SUMMARY:Altar
@@ -1381,7 +1366,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273011
 END:VEVENT
 BEGIN:VEVENT
 UID:200272332@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260819T190000Z
 DTEND:20260819T200000Z
 SUMMARY:Altar
@@ -1392,7 +1377,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272332
 END:VEVENT
 BEGIN:VEVENT
 UID:222228584@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260820T013000Z
 DTEND:20260820T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1404,7 +1389,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228584
 END:VEVENT
 BEGIN:VEVENT
 UID:222226167@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260821T013000Z
 DTEND:20260821T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1417,7 +1402,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226167
 END:VEVENT
 BEGIN:VEVENT
 UID:200191855@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260821T143000Z
 DTEND:20260821T153000Z
 SUMMARY:Men's Bible Study
@@ -1430,7 +1415,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191855
 END:VEVENT
 BEGIN:VEVENT
 UID:200190652@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260823T163000Z
 DTEND:20260823T183000Z
 SUMMARY:Sunday Gathering
@@ -1443,7 +1428,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190652
 END:VEVENT
 BEGIN:VEVENT
 UID:200273012@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260824T140000Z
 DTEND:20260824T150000Z
 SUMMARY:Altar
@@ -1454,7 +1439,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273012
 END:VEVENT
 BEGIN:VEVENT
 UID:200272333@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260826T190000Z
 DTEND:20260826T200000Z
 SUMMARY:Altar
@@ -1465,7 +1450,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272333
 END:VEVENT
 BEGIN:VEVENT
 UID:222225944@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260827T013000Z
 DTEND:20260827T033000Z
 SUMMARY:Español - ALTAR
@@ -1477,7 +1462,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225944
 END:VEVENT
 BEGIN:VEVENT
 UID:222228585@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260827T013000Z
 DTEND:20260827T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1489,7 +1474,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228585
 END:VEVENT
 BEGIN:VEVENT
 UID:222226168@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260828T013000Z
 DTEND:20260828T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1502,7 +1487,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226168
 END:VEVENT
 BEGIN:VEVENT
 UID:200191856@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260828T143000Z
 DTEND:20260828T153000Z
 SUMMARY:Men's Bible Study
@@ -1515,7 +1500,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191856
 END:VEVENT
 BEGIN:VEVENT
 UID:232430917@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260829T160000Z
 DTEND:20260829T173000Z
 SUMMARY:Men's Breakfast
@@ -1526,7 +1511,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/232430917
 END:VEVENT
 BEGIN:VEVENT
 UID:200190653@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260830T163000Z
 DTEND:20260830T183000Z
 SUMMARY:Sunday Gathering
@@ -1539,7 +1524,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190653
 END:VEVENT
 BEGIN:VEVENT
 UID:200273013@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260831T140000Z
 DTEND:20260831T150000Z
 SUMMARY:Altar
@@ -1550,7 +1535,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273013
 END:VEVENT
 BEGIN:VEVENT
 UID:200272334@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260902T190000Z
 DTEND:20260902T200000Z
 SUMMARY:Altar
@@ -1561,7 +1546,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272334
 END:VEVENT
 BEGIN:VEVENT
 UID:222228586@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260903T013000Z
 DTEND:20260903T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1573,7 +1558,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228586
 END:VEVENT
 BEGIN:VEVENT
 UID:222226169@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260904T013000Z
 DTEND:20260904T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1586,7 +1571,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226169
 END:VEVENT
 BEGIN:VEVENT
 UID:200191857@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260904T143000Z
 DTEND:20260904T153000Z
 SUMMARY:Men's Bible Study
@@ -1599,7 +1584,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191857
 END:VEVENT
 BEGIN:VEVENT
 UID:200190654@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260906T163000Z
 DTEND:20260906T183000Z
 SUMMARY:Sunday Gathering
@@ -1612,7 +1597,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190654
 END:VEVENT
 BEGIN:VEVENT
 UID:200273014@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260907T140000Z
 DTEND:20260907T150000Z
 SUMMARY:Altar
@@ -1623,7 +1608,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273014
 END:VEVENT
 BEGIN:VEVENT
 UID:200272335@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260909T190000Z
 DTEND:20260909T200000Z
 SUMMARY:Altar
@@ -1634,7 +1619,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272335
 END:VEVENT
 BEGIN:VEVENT
 UID:222228587@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260910T013000Z
 DTEND:20260910T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1646,7 +1631,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228587
 END:VEVENT
 BEGIN:VEVENT
 UID:222226170@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260911T013000Z
 DTEND:20260911T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1659,7 +1644,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226170
 END:VEVENT
 BEGIN:VEVENT
 UID:200191858@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260911T143000Z
 DTEND:20260911T153000Z
 SUMMARY:Men's Bible Study
@@ -1672,7 +1657,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191858
 END:VEVENT
 BEGIN:VEVENT
 UID:200190655@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260913T163000Z
 DTEND:20260913T183000Z
 SUMMARY:Sunday Gathering
@@ -1685,7 +1670,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190655
 END:VEVENT
 BEGIN:VEVENT
 UID:200273015@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260914T140000Z
 DTEND:20260914T150000Z
 SUMMARY:Altar
@@ -1696,7 +1681,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273015
 END:VEVENT
 BEGIN:VEVENT
 UID:200272336@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260916T190000Z
 DTEND:20260916T200000Z
 SUMMARY:Altar
@@ -1707,7 +1692,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272336
 END:VEVENT
 BEGIN:VEVENT
 UID:222228588@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260917T013000Z
 DTEND:20260917T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1719,7 +1704,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228588
 END:VEVENT
 BEGIN:VEVENT
 UID:222226171@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260918T013000Z
 DTEND:20260918T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1732,7 +1717,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226171
 END:VEVENT
 BEGIN:VEVENT
 UID:200191859@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260918T143000Z
 DTEND:20260918T153000Z
 SUMMARY:Men's Bible Study
@@ -1745,7 +1730,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191859
 END:VEVENT
 BEGIN:VEVENT
 UID:200190656@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260920T163000Z
 DTEND:20260920T183000Z
 SUMMARY:Sunday Gathering
@@ -1758,7 +1743,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190656
 END:VEVENT
 BEGIN:VEVENT
 UID:200273016@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260921T140000Z
 DTEND:20260921T150000Z
 SUMMARY:Altar
@@ -1769,7 +1754,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273016
 END:VEVENT
 BEGIN:VEVENT
 UID:200272337@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260923T190000Z
 DTEND:20260923T200000Z
 SUMMARY:Altar
@@ -1780,7 +1765,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272337
 END:VEVENT
 BEGIN:VEVENT
 UID:222228589@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260924T013000Z
 DTEND:20260924T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1792,7 +1777,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228589
 END:VEVENT
 BEGIN:VEVENT
 UID:222226172@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260925T013000Z
 DTEND:20260925T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1805,7 +1790,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226172
 END:VEVENT
 BEGIN:VEVENT
 UID:200191860@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260925T143000Z
 DTEND:20260925T153000Z
 SUMMARY:Men's Bible Study
@@ -1818,7 +1803,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191860
 END:VEVENT
 BEGIN:VEVENT
 UID:200190657@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Sunday Gathering
@@ -1831,7 +1816,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190657
 END:VEVENT
 BEGIN:VEVENT
 UID:200273017@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260928T140000Z
 DTEND:20260928T150000Z
 SUMMARY:Altar
@@ -1842,7 +1827,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273017
 END:VEVENT
 BEGIN:VEVENT
 UID:200272338@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20260930T190000Z
 DTEND:20260930T200000Z
 SUMMARY:Altar
@@ -1853,7 +1838,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272338
 END:VEVENT
 BEGIN:VEVENT
 UID:222225945@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261001T013000Z
 DTEND:20261001T033000Z
 SUMMARY:Español - ALTAR
@@ -1865,7 +1850,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225945
 END:VEVENT
 BEGIN:VEVENT
 UID:222228590@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261001T013000Z
 DTEND:20261001T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1877,7 +1862,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228590
 END:VEVENT
 BEGIN:VEVENT
 UID:222226173@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261002T013000Z
 DTEND:20261002T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1890,7 +1875,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226173
 END:VEVENT
 BEGIN:VEVENT
 UID:200191861@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261002T143000Z
 DTEND:20261002T153000Z
 SUMMARY:Men's Bible Study
@@ -1903,7 +1888,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191861
 END:VEVENT
 BEGIN:VEVENT
 UID:200190658@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261004T163000Z
 DTEND:20261004T183000Z
 SUMMARY:Sunday Gathering
@@ -1916,7 +1901,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190658
 END:VEVENT
 BEGIN:VEVENT
 UID:238063386@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261004T163000Z
 DTEND:20261004T183000Z
 SUMMARY:Together Sunday
@@ -1932,7 +1917,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/238063386
 END:VEVENT
 BEGIN:VEVENT
 UID:238726610@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261005T140000Z
 DTEND:20261006T020000Z
 SUMMARY:All Day Worship + Prayer
@@ -1945,7 +1930,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/238726610
 END:VEVENT
 BEGIN:VEVENT
 UID:200273018@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261005T140000Z
 DTEND:20261005T150000Z
 SUMMARY:Altar
@@ -1956,7 +1941,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273018
 END:VEVENT
 BEGIN:VEVENT
 UID:200272339@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261007T190000Z
 DTEND:20261007T200000Z
 SUMMARY:Altar
@@ -1967,7 +1952,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272339
 END:VEVENT
 BEGIN:VEVENT
 UID:222228591@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261008T013000Z
 DTEND:20261008T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -1979,7 +1964,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228591
 END:VEVENT
 BEGIN:VEVENT
 UID:222226174@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261009T013000Z
 DTEND:20261009T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -1992,7 +1977,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226174
 END:VEVENT
 BEGIN:VEVENT
 UID:200191862@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261009T143000Z
 DTEND:20261009T153000Z
 SUMMARY:Men's Bible Study
@@ -2005,7 +1990,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191862
 END:VEVENT
 BEGIN:VEVENT
 UID:200190659@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261011T163000Z
 DTEND:20261011T183000Z
 SUMMARY:Sunday Gathering
@@ -2018,7 +2003,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190659
 END:VEVENT
 BEGIN:VEVENT
 UID:200273019@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261012T140000Z
 DTEND:20261012T150000Z
 SUMMARY:Altar
@@ -2029,7 +2014,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273019
 END:VEVENT
 BEGIN:VEVENT
 UID:200272340@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261014T190000Z
 DTEND:20261014T200000Z
 SUMMARY:Altar
@@ -2040,7 +2025,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200272340
 END:VEVENT
 BEGIN:VEVENT
 UID:222228592@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261015T013000Z
 DTEND:20261015T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2052,7 +2037,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228592
 END:VEVENT
 BEGIN:VEVENT
 UID:222226175@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261016T013000Z
 DTEND:20261016T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2065,7 +2050,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226175
 END:VEVENT
 BEGIN:VEVENT
 UID:239794045@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261016T013000Z
 DTEND:20261016T023000Z
 SUMMARY:House of Prayer
@@ -2077,7 +2062,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/239794045
 END:VEVENT
 BEGIN:VEVENT
 UID:200191863@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261016T143000Z
 DTEND:20261016T153000Z
 SUMMARY:Men's Bible Study
@@ -2090,7 +2075,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200191863
 END:VEVENT
 BEGIN:VEVENT
 UID:238060531@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261017T160000Z
 DTEND:20261017T180000Z
 SUMMARY:Women's Breakfast
@@ -2102,7 +2087,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/238060531
 END:VEVENT
 BEGIN:VEVENT
 UID:200190660@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261018T163000Z
 DTEND:20261018T183000Z
 SUMMARY:Sunday Gathering
@@ -2115,7 +2100,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190660
 END:VEVENT
 BEGIN:VEVENT
 UID:200273020@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261019T140000Z
 DTEND:20261019T150000Z
 SUMMARY:Altar
@@ -2126,7 +2111,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273020
 END:VEVENT
 BEGIN:VEVENT
 UID:240191702@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261021T133000Z
 DTEND:20261021T143000Z
 SUMMARY:Altar
@@ -2137,7 +2122,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191702
 END:VEVENT
 BEGIN:VEVENT
 UID:222228593@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261022T013000Z
 DTEND:20261022T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2149,7 +2134,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228593
 END:VEVENT
 BEGIN:VEVENT
 UID:222226176@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261023T013000Z
 DTEND:20261023T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2162,7 +2147,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226176
 END:VEVENT
 BEGIN:VEVENT
 UID:240601263@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261023T013000Z
 DTEND:20261023T023000Z
 SUMMARY:House of Prayer
@@ -2174,7 +2159,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240601263
 END:VEVENT
 BEGIN:VEVENT
 UID:200190661@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261025T163000Z
 DTEND:20261025T183000Z
 SUMMARY:Sunday Gathering
@@ -2187,7 +2172,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190661
 END:VEVENT
 BEGIN:VEVENT
 UID:200273021@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261026T140000Z
 DTEND:20261026T150000Z
 SUMMARY:Altar
@@ -2198,7 +2183,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273021
 END:VEVENT
 BEGIN:VEVENT
 UID:240983610@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261028T013000Z
 DTEND:20261028T023000Z
 SUMMARY:House of Prayer
@@ -2210,7 +2195,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240983610
 END:VEVENT
 BEGIN:VEVENT
 UID:240191703@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261028T133000Z
 DTEND:20261028T143000Z
 SUMMARY:Altar
@@ -2221,7 +2206,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191703
 END:VEVENT
 BEGIN:VEVENT
 UID:222225946@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261029T013000Z
 DTEND:20261029T033000Z
 SUMMARY:Español - ALTAR
@@ -2233,7 +2218,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225946
 END:VEVENT
 BEGIN:VEVENT
 UID:222228594@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261029T013000Z
 DTEND:20261029T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2245,7 +2230,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228594
 END:VEVENT
 BEGIN:VEVENT
 UID:222226177@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261030T013000Z
 DTEND:20261030T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2258,7 +2243,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226177
 END:VEVENT
 BEGIN:VEVENT
 UID:240467232@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261031T163000Z
 DTEND:20261031T173000Z
 SUMMARY:Men's Breakfast
@@ -2270,7 +2255,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240467232
 END:VEVENT
 BEGIN:VEVENT
 UID:200190662@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261101T173000Z
 DTEND:20261101T193000Z
 SUMMARY:Sunday Gathering
@@ -2283,7 +2268,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190662
 END:VEVENT
 BEGIN:VEVENT
 UID:200273022@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261102T150000Z
 DTEND:20261102T160000Z
 SUMMARY:Altar
@@ -2294,7 +2279,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273022
 END:VEVENT
 BEGIN:VEVENT
 UID:241437036@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261104T023000Z
 DTEND:20261104T033000Z
 SUMMARY:House of Prayer
@@ -2306,7 +2291,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/241437036
 END:VEVENT
 BEGIN:VEVENT
 UID:240191704@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261104T143000Z
 DTEND:20261104T153000Z
 SUMMARY:Altar
@@ -2317,7 +2302,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191704
 END:VEVENT
 BEGIN:VEVENT
 UID:222228595@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261105T023000Z
 DTEND:20261105T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2329,7 +2314,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228595
 END:VEVENT
 BEGIN:VEVENT
 UID:222226178@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261106T023000Z
 DTEND:20261106T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2342,7 +2327,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226178
 END:VEVENT
 BEGIN:VEVENT
 UID:200190663@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261108T173000Z
 DTEND:20261108T193000Z
 SUMMARY:Sunday Gathering
@@ -2355,7 +2340,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190663
 END:VEVENT
 BEGIN:VEVENT
 UID:200273023@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261109T150000Z
 DTEND:20261109T160000Z
 SUMMARY:Altar
@@ -2366,7 +2351,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273023
 END:VEVENT
 BEGIN:VEVENT
 UID:240191705@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261111T143000Z
 DTEND:20261111T153000Z
 SUMMARY:Altar
@@ -2377,7 +2362,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191705
 END:VEVENT
 BEGIN:VEVENT
 UID:222228596@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261112T023000Z
 DTEND:20261112T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2389,7 +2374,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228596
 END:VEVENT
 BEGIN:VEVENT
 UID:222226179@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261113T023000Z
 DTEND:20261113T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2402,7 +2387,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226179
 END:VEVENT
 BEGIN:VEVENT
 UID:200190664@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261115T173000Z
 DTEND:20261115T193000Z
 SUMMARY:Sunday Gathering
@@ -2415,7 +2400,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190664
 END:VEVENT
 BEGIN:VEVENT
 UID:241521013@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261115T183000Z
 DTEND:20261115T193000Z
 SUMMARY:Together Sunday
@@ -2430,7 +2415,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/241521013
 END:VEVENT
 BEGIN:VEVENT
 UID:200273024@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261116T150000Z
 DTEND:20261116T160000Z
 SUMMARY:Altar
@@ -2441,7 +2426,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273024
 END:VEVENT
 BEGIN:VEVENT
 UID:240191706@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261118T143000Z
 DTEND:20261118T153000Z
 SUMMARY:Altar
@@ -2452,7 +2437,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191706
 END:VEVENT
 BEGIN:VEVENT
 UID:222228597@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261119T023000Z
 DTEND:20261119T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2464,7 +2449,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228597
 END:VEVENT
 BEGIN:VEVENT
 UID:222226180@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261120T023000Z
 DTEND:20261120T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2477,7 +2462,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226180
 END:VEVENT
 BEGIN:VEVENT
 UID:200190665@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261122T173000Z
 DTEND:20261122T193000Z
 SUMMARY:Sunday Gathering
@@ -2490,7 +2475,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190665
 END:VEVENT
 BEGIN:VEVENT
 UID:200273025@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261123T150000Z
 DTEND:20261123T160000Z
 SUMMARY:Altar
@@ -2501,7 +2486,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273025
 END:VEVENT
 BEGIN:VEVENT
 UID:240191707@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261125T143000Z
 DTEND:20261125T153000Z
 SUMMARY:Altar
@@ -2512,7 +2497,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191707
 END:VEVENT
 BEGIN:VEVENT
 UID:222225947@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261126T023000Z
 DTEND:20261126T043000Z
 SUMMARY:Español - ALTAR
@@ -2524,7 +2509,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225947
 END:VEVENT
 BEGIN:VEVENT
 UID:222228598@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261126T023000Z
 DTEND:20261126T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2536,7 +2521,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228598
 END:VEVENT
 BEGIN:VEVENT
 UID:222226181@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261127T023000Z
 DTEND:20261127T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2549,7 +2534,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226181
 END:VEVENT
 BEGIN:VEVENT
 UID:200190666@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261129T173000Z
 DTEND:20261129T193000Z
 SUMMARY:Sunday Gathering
@@ -2562,7 +2547,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190666
 END:VEVENT
 BEGIN:VEVENT
 UID:200273026@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261130T150000Z
 DTEND:20261130T160000Z
 SUMMARY:Altar
@@ -2573,7 +2558,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273026
 END:VEVENT
 BEGIN:VEVENT
 UID:240191708@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261202T143000Z
 DTEND:20261202T153000Z
 SUMMARY:Altar
@@ -2584,7 +2569,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191708
 END:VEVENT
 BEGIN:VEVENT
 UID:222228599@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261203T023000Z
 DTEND:20261203T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2596,7 +2581,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228599
 END:VEVENT
 BEGIN:VEVENT
 UID:222226182@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261204T023000Z
 DTEND:20261204T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2609,7 +2594,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226182
 END:VEVENT
 BEGIN:VEVENT
 UID:200190667@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261206T173000Z
 DTEND:20261206T193000Z
 SUMMARY:Sunday Gathering
@@ -2622,7 +2607,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190667
 END:VEVENT
 BEGIN:VEVENT
 UID:200273027@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261207T150000Z
 DTEND:20261207T160000Z
 SUMMARY:Altar
@@ -2633,7 +2618,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273027
 END:VEVENT
 BEGIN:VEVENT
 UID:240191709@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261209T143000Z
 DTEND:20261209T153000Z
 SUMMARY:Altar
@@ -2644,7 +2629,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191709
 END:VEVENT
 BEGIN:VEVENT
 UID:222228600@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261210T023000Z
 DTEND:20261210T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2656,7 +2641,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228600
 END:VEVENT
 BEGIN:VEVENT
 UID:222226183@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261211T023000Z
 DTEND:20261211T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2669,7 +2654,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226183
 END:VEVENT
 BEGIN:VEVENT
 UID:200190668@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261213T173000Z
 DTEND:20261213T193000Z
 SUMMARY:Sunday Gathering
@@ -2682,7 +2667,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190668
 END:VEVENT
 BEGIN:VEVENT
 UID:200273028@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261214T150000Z
 DTEND:20261214T160000Z
 SUMMARY:Altar
@@ -2693,7 +2678,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273028
 END:VEVENT
 BEGIN:VEVENT
 UID:240191710@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261216T143000Z
 DTEND:20261216T153000Z
 SUMMARY:Altar
@@ -2704,7 +2689,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191710
 END:VEVENT
 BEGIN:VEVENT
 UID:222228601@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261217T023000Z
 DTEND:20261217T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2716,7 +2701,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228601
 END:VEVENT
 BEGIN:VEVENT
 UID:222226184@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261218T023000Z
 DTEND:20261218T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2729,7 +2714,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226184
 END:VEVENT
 BEGIN:VEVENT
 UID:200190669@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261220T173000Z
 DTEND:20261220T193000Z
 SUMMARY:Sunday Gathering
@@ -2742,7 +2727,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190669
 END:VEVENT
 BEGIN:VEVENT
 UID:200273029@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261221T150000Z
 DTEND:20261221T160000Z
 SUMMARY:Altar
@@ -2753,7 +2738,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273029
 END:VEVENT
 BEGIN:VEVENT
 UID:240191711@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261223T143000Z
 DTEND:20261223T153000Z
 SUMMARY:Altar
@@ -2764,7 +2749,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191711
 END:VEVENT
 BEGIN:VEVENT
 UID:222228602@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261224T023000Z
 DTEND:20261224T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2776,7 +2761,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228602
 END:VEVENT
 BEGIN:VEVENT
 UID:222226185@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261225T023000Z
 DTEND:20261225T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2789,7 +2774,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226185
 END:VEVENT
 BEGIN:VEVENT
 UID:200190670@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261227T173000Z
 DTEND:20261227T193000Z
 SUMMARY:Sunday Gathering
@@ -2802,7 +2787,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190670
 END:VEVENT
 BEGIN:VEVENT
 UID:200273030@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261228T150000Z
 DTEND:20261228T160000Z
 SUMMARY:Altar
@@ -2813,7 +2798,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273030
 END:VEVENT
 BEGIN:VEVENT
 UID:240191712@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261230T143000Z
 DTEND:20261230T153000Z
 SUMMARY:Altar
@@ -2824,7 +2809,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191712
 END:VEVENT
 BEGIN:VEVENT
 UID:222225948@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261231T023000Z
 DTEND:20261231T043000Z
 SUMMARY:Español - ALTAR
@@ -2836,7 +2821,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225948
 END:VEVENT
 BEGIN:VEVENT
 UID:222228603@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20261231T023000Z
 DTEND:20261231T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2848,7 +2833,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228603
 END:VEVENT
 BEGIN:VEVENT
 UID:222226186@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270101T023000Z
 DTEND:20270101T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2861,7 +2846,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226186
 END:VEVENT
 BEGIN:VEVENT
 UID:200190671@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270103T173000Z
 DTEND:20270103T193000Z
 SUMMARY:Sunday Gathering
@@ -2874,7 +2859,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190671
 END:VEVENT
 BEGIN:VEVENT
 UID:200273031@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270104T150000Z
 DTEND:20270104T160000Z
 SUMMARY:Altar
@@ -2885,7 +2870,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273031
 END:VEVENT
 BEGIN:VEVENT
 UID:240191713@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270106T143000Z
 DTEND:20270106T153000Z
 SUMMARY:Altar
@@ -2896,7 +2881,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191713
 END:VEVENT
 BEGIN:VEVENT
 UID:222228604@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270107T023000Z
 DTEND:20270107T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2908,7 +2893,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228604
 END:VEVENT
 BEGIN:VEVENT
 UID:222226187@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270108T023000Z
 DTEND:20270108T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2921,7 +2906,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226187
 END:VEVENT
 BEGIN:VEVENT
 UID:200190672@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270110T173000Z
 DTEND:20270110T193000Z
 SUMMARY:Sunday Gathering
@@ -2934,7 +2919,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190672
 END:VEVENT
 BEGIN:VEVENT
 UID:200273032@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270111T150000Z
 DTEND:20270111T160000Z
 SUMMARY:Altar
@@ -2945,7 +2930,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273032
 END:VEVENT
 BEGIN:VEVENT
 UID:240191714@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270113T143000Z
 DTEND:20270113T153000Z
 SUMMARY:Altar
@@ -2956,7 +2941,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191714
 END:VEVENT
 BEGIN:VEVENT
 UID:222228605@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270114T023000Z
 DTEND:20270114T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -2968,7 +2953,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228605
 END:VEVENT
 BEGIN:VEVENT
 UID:222226188@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270115T023000Z
 DTEND:20270115T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -2981,7 +2966,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226188
 END:VEVENT
 BEGIN:VEVENT
 UID:200190673@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270117T173000Z
 DTEND:20270117T193000Z
 SUMMARY:Sunday Gathering
@@ -2994,7 +2979,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190673
 END:VEVENT
 BEGIN:VEVENT
 UID:200273033@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270118T150000Z
 DTEND:20270118T160000Z
 SUMMARY:Altar
@@ -3005,7 +2990,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273033
 END:VEVENT
 BEGIN:VEVENT
 UID:240191715@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270120T143000Z
 DTEND:20270120T153000Z
 SUMMARY:Altar
@@ -3016,7 +3001,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191715
 END:VEVENT
 BEGIN:VEVENT
 UID:222228606@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270121T023000Z
 DTEND:20270121T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3028,7 +3013,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228606
 END:VEVENT
 BEGIN:VEVENT
 UID:222226189@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270122T023000Z
 DTEND:20270122T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3041,7 +3026,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226189
 END:VEVENT
 BEGIN:VEVENT
 UID:200190674@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270124T173000Z
 DTEND:20270124T193000Z
 SUMMARY:Sunday Gathering
@@ -3054,7 +3039,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190674
 END:VEVENT
 BEGIN:VEVENT
 UID:200273034@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270125T150000Z
 DTEND:20270125T160000Z
 SUMMARY:Altar
@@ -3065,7 +3050,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273034
 END:VEVENT
 BEGIN:VEVENT
 UID:240191716@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270127T143000Z
 DTEND:20270127T153000Z
 SUMMARY:Altar
@@ -3076,7 +3061,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191716
 END:VEVENT
 BEGIN:VEVENT
 UID:222225949@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270128T023000Z
 DTEND:20270128T043000Z
 SUMMARY:Español - ALTAR
@@ -3088,7 +3073,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225949
 END:VEVENT
 BEGIN:VEVENT
 UID:222228607@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270128T023000Z
 DTEND:20270128T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3100,7 +3085,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228607
 END:VEVENT
 BEGIN:VEVENT
 UID:222226190@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270129T023000Z
 DTEND:20270129T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3113,7 +3098,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226190
 END:VEVENT
 BEGIN:VEVENT
 UID:200190675@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270131T173000Z
 DTEND:20270131T193000Z
 SUMMARY:Sunday Gathering
@@ -3126,7 +3111,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190675
 END:VEVENT
 BEGIN:VEVENT
 UID:200273035@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270201T150000Z
 DTEND:20270201T160000Z
 SUMMARY:Altar
@@ -3137,7 +3122,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273035
 END:VEVENT
 BEGIN:VEVENT
 UID:240191717@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270203T143000Z
 DTEND:20270203T153000Z
 SUMMARY:Altar
@@ -3148,7 +3133,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191717
 END:VEVENT
 BEGIN:VEVENT
 UID:222228608@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270204T023000Z
 DTEND:20270204T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3160,7 +3145,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228608
 END:VEVENT
 BEGIN:VEVENT
 UID:222226191@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270205T023000Z
 DTEND:20270205T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3173,7 +3158,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226191
 END:VEVENT
 BEGIN:VEVENT
 UID:200190676@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270207T173000Z
 DTEND:20270207T193000Z
 SUMMARY:Sunday Gathering
@@ -3186,7 +3171,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190676
 END:VEVENT
 BEGIN:VEVENT
 UID:200273036@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270208T150000Z
 DTEND:20270208T160000Z
 SUMMARY:Altar
@@ -3197,7 +3182,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273036
 END:VEVENT
 BEGIN:VEVENT
 UID:240191718@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270210T143000Z
 DTEND:20270210T153000Z
 SUMMARY:Altar
@@ -3208,7 +3193,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191718
 END:VEVENT
 BEGIN:VEVENT
 UID:222228609@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270211T023000Z
 DTEND:20270211T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3220,7 +3205,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228609
 END:VEVENT
 BEGIN:VEVENT
 UID:222226192@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270212T023000Z
 DTEND:20270212T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3233,7 +3218,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226192
 END:VEVENT
 BEGIN:VEVENT
 UID:200190677@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270214T173000Z
 DTEND:20270214T193000Z
 SUMMARY:Sunday Gathering
@@ -3246,7 +3231,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190677
 END:VEVENT
 BEGIN:VEVENT
 UID:200273037@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270215T150000Z
 DTEND:20270215T160000Z
 SUMMARY:Altar
@@ -3257,7 +3242,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273037
 END:VEVENT
 BEGIN:VEVENT
 UID:240191719@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270217T143000Z
 DTEND:20270217T153000Z
 SUMMARY:Altar
@@ -3268,7 +3253,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191719
 END:VEVENT
 BEGIN:VEVENT
 UID:222228610@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270218T023000Z
 DTEND:20270218T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3280,7 +3265,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228610
 END:VEVENT
 BEGIN:VEVENT
 UID:222226193@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270219T023000Z
 DTEND:20270219T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3293,7 +3278,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226193
 END:VEVENT
 BEGIN:VEVENT
 UID:200190678@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270221T173000Z
 DTEND:20270221T193000Z
 SUMMARY:Sunday Gathering
@@ -3306,7 +3291,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190678
 END:VEVENT
 BEGIN:VEVENT
 UID:200273038@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270222T150000Z
 DTEND:20270222T160000Z
 SUMMARY:Altar
@@ -3317,7 +3302,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273038
 END:VEVENT
 BEGIN:VEVENT
 UID:240191720@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270224T143000Z
 DTEND:20270224T153000Z
 SUMMARY:Altar
@@ -3328,7 +3313,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191720
 END:VEVENT
 BEGIN:VEVENT
 UID:222225950@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270225T023000Z
 DTEND:20270225T043000Z
 SUMMARY:Español - ALTAR
@@ -3340,7 +3325,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225950
 END:VEVENT
 BEGIN:VEVENT
 UID:222228611@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270225T023000Z
 DTEND:20270225T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3352,7 +3337,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228611
 END:VEVENT
 BEGIN:VEVENT
 UID:222226194@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270226T023000Z
 DTEND:20270226T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3365,7 +3350,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226194
 END:VEVENT
 BEGIN:VEVENT
 UID:200190679@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270228T173000Z
 DTEND:20270228T193000Z
 SUMMARY:Sunday Gathering
@@ -3378,7 +3363,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190679
 END:VEVENT
 BEGIN:VEVENT
 UID:200273039@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270301T150000Z
 DTEND:20270301T160000Z
 SUMMARY:Altar
@@ -3389,7 +3374,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273039
 END:VEVENT
 BEGIN:VEVENT
 UID:240191721@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270303T143000Z
 DTEND:20270303T153000Z
 SUMMARY:Altar
@@ -3400,7 +3385,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191721
 END:VEVENT
 BEGIN:VEVENT
 UID:222228612@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270304T023000Z
 DTEND:20270304T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3412,7 +3397,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228612
 END:VEVENT
 BEGIN:VEVENT
 UID:222226195@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270305T023000Z
 DTEND:20270305T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3425,7 +3410,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226195
 END:VEVENT
 BEGIN:VEVENT
 UID:200190680@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270307T173000Z
 DTEND:20270307T193000Z
 SUMMARY:Sunday Gathering
@@ -3438,7 +3423,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190680
 END:VEVENT
 BEGIN:VEVENT
 UID:200273040@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270308T150000Z
 DTEND:20270308T160000Z
 SUMMARY:Altar
@@ -3449,7 +3434,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273040
 END:VEVENT
 BEGIN:VEVENT
 UID:240191722@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270310T143000Z
 DTEND:20270310T153000Z
 SUMMARY:Altar
@@ -3460,7 +3445,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191722
 END:VEVENT
 BEGIN:VEVENT
 UID:222228613@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270311T023000Z
 DTEND:20270311T043000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3472,7 +3457,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228613
 END:VEVENT
 BEGIN:VEVENT
 UID:222226196@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270312T023000Z
 DTEND:20270312T043000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3485,7 +3470,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226196
 END:VEVENT
 BEGIN:VEVENT
 UID:200190681@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270314T163000Z
 DTEND:20270314T183000Z
 SUMMARY:Sunday Gathering
@@ -3498,7 +3483,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190681
 END:VEVENT
 BEGIN:VEVENT
 UID:200273041@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270315T140000Z
 DTEND:20270315T150000Z
 SUMMARY:Altar
@@ -3509,7 +3494,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273041
 END:VEVENT
 BEGIN:VEVENT
 UID:240191723@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270317T133000Z
 DTEND:20270317T143000Z
 SUMMARY:Altar
@@ -3520,7 +3505,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191723
 END:VEVENT
 BEGIN:VEVENT
 UID:222228614@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270318T013000Z
 DTEND:20270318T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3532,7 +3517,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228614
 END:VEVENT
 BEGIN:VEVENT
 UID:222226197@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270319T013000Z
 DTEND:20270319T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3545,7 +3530,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226197
 END:VEVENT
 BEGIN:VEVENT
 UID:200190682@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270321T163000Z
 DTEND:20270321T183000Z
 SUMMARY:Sunday Gathering
@@ -3558,7 +3543,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190682
 END:VEVENT
 BEGIN:VEVENT
 UID:200273042@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270322T140000Z
 DTEND:20270322T150000Z
 SUMMARY:Altar
@@ -3569,7 +3554,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273042
 END:VEVENT
 BEGIN:VEVENT
 UID:240191724@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270324T133000Z
 DTEND:20270324T143000Z
 SUMMARY:Altar
@@ -3580,7 +3565,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191724
 END:VEVENT
 BEGIN:VEVENT
 UID:222228615@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270325T013000Z
 DTEND:20270325T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3592,7 +3577,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228615
 END:VEVENT
 BEGIN:VEVENT
 UID:222226198@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270326T013000Z
 DTEND:20270326T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3605,7 +3590,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226198
 END:VEVENT
 BEGIN:VEVENT
 UID:200190683@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270328T163000Z
 DTEND:20270328T183000Z
 SUMMARY:Sunday Gathering
@@ -3618,7 +3603,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190683
 END:VEVENT
 BEGIN:VEVENT
 UID:200273043@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270329T140000Z
 DTEND:20270329T150000Z
 SUMMARY:Altar
@@ -3629,7 +3614,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273043
 END:VEVENT
 BEGIN:VEVENT
 UID:240191725@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270331T133000Z
 DTEND:20270331T143000Z
 SUMMARY:Altar
@@ -3640,7 +3625,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191725
 END:VEVENT
 BEGIN:VEVENT
 UID:222225951@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270401T013000Z
 DTEND:20270401T033000Z
 SUMMARY:Español - ALTAR
@@ -3652,7 +3637,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225951
 END:VEVENT
 BEGIN:VEVENT
 UID:222228616@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270401T013000Z
 DTEND:20270401T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3664,7 +3649,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228616
 END:VEVENT
 BEGIN:VEVENT
 UID:222226199@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270402T013000Z
 DTEND:20270402T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3677,7 +3662,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226199
 END:VEVENT
 BEGIN:VEVENT
 UID:200190684@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270404T163000Z
 DTEND:20270404T183000Z
 SUMMARY:Sunday Gathering
@@ -3690,7 +3675,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190684
 END:VEVENT
 BEGIN:VEVENT
 UID:200273044@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270405T140000Z
 DTEND:20270405T150000Z
 SUMMARY:Altar
@@ -3701,7 +3686,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273044
 END:VEVENT
 BEGIN:VEVENT
 UID:240191726@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270407T133000Z
 DTEND:20270407T143000Z
 SUMMARY:Altar
@@ -3712,7 +3697,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191726
 END:VEVENT
 BEGIN:VEVENT
 UID:222228617@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270408T013000Z
 DTEND:20270408T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3724,7 +3709,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228617
 END:VEVENT
 BEGIN:VEVENT
 UID:222226200@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270409T013000Z
 DTEND:20270409T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3737,7 +3722,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226200
 END:VEVENT
 BEGIN:VEVENT
 UID:200190685@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270411T163000Z
 DTEND:20270411T183000Z
 SUMMARY:Sunday Gathering
@@ -3750,7 +3735,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190685
 END:VEVENT
 BEGIN:VEVENT
 UID:200273045@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270412T140000Z
 DTEND:20270412T150000Z
 SUMMARY:Altar
@@ -3761,7 +3746,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273045
 END:VEVENT
 BEGIN:VEVENT
 UID:240191727@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270414T133000Z
 DTEND:20270414T143000Z
 SUMMARY:Altar
@@ -3772,7 +3757,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191727
 END:VEVENT
 BEGIN:VEVENT
 UID:222228618@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270415T013000Z
 DTEND:20270415T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3784,7 +3769,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228618
 END:VEVENT
 BEGIN:VEVENT
 UID:222226201@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270416T013000Z
 DTEND:20270416T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3797,7 +3782,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226201
 END:VEVENT
 BEGIN:VEVENT
 UID:200190686@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270418T163000Z
 DTEND:20270418T183000Z
 SUMMARY:Sunday Gathering
@@ -3810,7 +3795,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190686
 END:VEVENT
 BEGIN:VEVENT
 UID:200273046@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270419T140000Z
 DTEND:20270419T150000Z
 SUMMARY:Altar
@@ -3821,7 +3806,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273046
 END:VEVENT
 BEGIN:VEVENT
 UID:240191728@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270421T133000Z
 DTEND:20270421T143000Z
 SUMMARY:Altar
@@ -3832,7 +3817,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191728
 END:VEVENT
 BEGIN:VEVENT
 UID:222228619@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270422T013000Z
 DTEND:20270422T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3844,7 +3829,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228619
 END:VEVENT
 BEGIN:VEVENT
 UID:222226202@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270423T013000Z
 DTEND:20270423T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3857,7 +3842,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226202
 END:VEVENT
 BEGIN:VEVENT
 UID:200190687@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270425T163000Z
 DTEND:20270425T183000Z
 SUMMARY:Sunday Gathering
@@ -3870,7 +3855,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190687
 END:VEVENT
 BEGIN:VEVENT
 UID:200273047@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270426T140000Z
 DTEND:20270426T150000Z
 SUMMARY:Altar
@@ -3881,7 +3866,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273047
 END:VEVENT
 BEGIN:VEVENT
 UID:240191729@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270428T133000Z
 DTEND:20270428T143000Z
 SUMMARY:Altar
@@ -3892,7 +3877,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191729
 END:VEVENT
 BEGIN:VEVENT
 UID:222225952@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270429T013000Z
 DTEND:20270429T033000Z
 SUMMARY:Español - ALTAR
@@ -3904,7 +3889,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225952
 END:VEVENT
 BEGIN:VEVENT
 UID:222228620@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270429T013000Z
 DTEND:20270429T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3916,7 +3901,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228620
 END:VEVENT
 BEGIN:VEVENT
 UID:222226203@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270430T013000Z
 DTEND:20270430T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3929,7 +3914,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226203
 END:VEVENT
 BEGIN:VEVENT
 UID:200190688@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270502T163000Z
 DTEND:20270502T183000Z
 SUMMARY:Sunday Gathering
@@ -3942,7 +3927,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190688
 END:VEVENT
 BEGIN:VEVENT
 UID:200273048@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270503T140000Z
 DTEND:20270503T150000Z
 SUMMARY:Altar
@@ -3953,7 +3938,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273048
 END:VEVENT
 BEGIN:VEVENT
 UID:240191730@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270505T133000Z
 DTEND:20270505T143000Z
 SUMMARY:Altar
@@ -3964,7 +3949,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191730
 END:VEVENT
 BEGIN:VEVENT
 UID:222228621@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270506T013000Z
 DTEND:20270506T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -3976,7 +3961,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228621
 END:VEVENT
 BEGIN:VEVENT
 UID:222226204@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270507T013000Z
 DTEND:20270507T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -3989,7 +3974,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226204
 END:VEVENT
 BEGIN:VEVENT
 UID:200190689@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270509T163000Z
 DTEND:20270509T183000Z
 SUMMARY:Sunday Gathering
@@ -4002,7 +3987,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190689
 END:VEVENT
 BEGIN:VEVENT
 UID:200273049@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270510T140000Z
 DTEND:20270510T150000Z
 SUMMARY:Altar
@@ -4013,7 +3998,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273049
 END:VEVENT
 BEGIN:VEVENT
 UID:240191731@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270512T133000Z
 DTEND:20270512T143000Z
 SUMMARY:Altar
@@ -4024,7 +4009,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191731
 END:VEVENT
 BEGIN:VEVENT
 UID:222228622@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270513T013000Z
 DTEND:20270513T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4036,7 +4021,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228622
 END:VEVENT
 BEGIN:VEVENT
 UID:222226205@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270514T013000Z
 DTEND:20270514T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4049,7 +4034,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226205
 END:VEVENT
 BEGIN:VEVENT
 UID:200190690@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270516T163000Z
 DTEND:20270516T183000Z
 SUMMARY:Sunday Gathering
@@ -4062,7 +4047,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190690
 END:VEVENT
 BEGIN:VEVENT
 UID:200273050@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270517T140000Z
 DTEND:20270517T150000Z
 SUMMARY:Altar
@@ -4073,7 +4058,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273050
 END:VEVENT
 BEGIN:VEVENT
 UID:240191732@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270519T133000Z
 DTEND:20270519T143000Z
 SUMMARY:Altar
@@ -4084,7 +4069,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191732
 END:VEVENT
 BEGIN:VEVENT
 UID:222228623@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270520T013000Z
 DTEND:20270520T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4096,7 +4081,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228623
 END:VEVENT
 BEGIN:VEVENT
 UID:222226206@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270521T013000Z
 DTEND:20270521T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4109,7 +4094,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226206
 END:VEVENT
 BEGIN:VEVENT
 UID:200190691@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270523T163000Z
 DTEND:20270523T183000Z
 SUMMARY:Sunday Gathering
@@ -4122,7 +4107,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190691
 END:VEVENT
 BEGIN:VEVENT
 UID:200273051@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270524T140000Z
 DTEND:20270524T150000Z
 SUMMARY:Altar
@@ -4133,7 +4118,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273051
 END:VEVENT
 BEGIN:VEVENT
 UID:240191733@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270526T133000Z
 DTEND:20270526T143000Z
 SUMMARY:Altar
@@ -4144,7 +4129,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191733
 END:VEVENT
 BEGIN:VEVENT
 UID:222225953@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270527T013000Z
 DTEND:20270527T033000Z
 SUMMARY:Español - ALTAR
@@ -4156,7 +4141,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225953
 END:VEVENT
 BEGIN:VEVENT
 UID:222228624@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270527T013000Z
 DTEND:20270527T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4168,7 +4153,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228624
 END:VEVENT
 BEGIN:VEVENT
 UID:222226207@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270528T013000Z
 DTEND:20270528T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4181,7 +4166,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226207
 END:VEVENT
 BEGIN:VEVENT
 UID:200190692@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270530T163000Z
 DTEND:20270530T183000Z
 SUMMARY:Sunday Gathering
@@ -4194,7 +4179,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190692
 END:VEVENT
 BEGIN:VEVENT
 UID:200273052@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270531T140000Z
 DTEND:20270531T150000Z
 SUMMARY:Altar
@@ -4205,7 +4190,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273052
 END:VEVENT
 BEGIN:VEVENT
 UID:240191734@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270602T133000Z
 DTEND:20270602T143000Z
 SUMMARY:Altar
@@ -4216,7 +4201,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191734
 END:VEVENT
 BEGIN:VEVENT
 UID:222228625@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270603T013000Z
 DTEND:20270603T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4228,7 +4213,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228625
 END:VEVENT
 BEGIN:VEVENT
 UID:222226208@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270604T013000Z
 DTEND:20270604T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4241,7 +4226,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226208
 END:VEVENT
 BEGIN:VEVENT
 UID:200190693@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270606T163000Z
 DTEND:20270606T183000Z
 SUMMARY:Sunday Gathering
@@ -4254,7 +4239,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190693
 END:VEVENT
 BEGIN:VEVENT
 UID:200273053@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270607T140000Z
 DTEND:20270607T150000Z
 SUMMARY:Altar
@@ -4265,7 +4250,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273053
 END:VEVENT
 BEGIN:VEVENT
 UID:240191735@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270609T133000Z
 DTEND:20270609T143000Z
 SUMMARY:Altar
@@ -4276,7 +4261,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191735
 END:VEVENT
 BEGIN:VEVENT
 UID:222228626@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270610T013000Z
 DTEND:20270610T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4288,7 +4273,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228626
 END:VEVENT
 BEGIN:VEVENT
 UID:222226209@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270611T013000Z
 DTEND:20270611T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4301,7 +4286,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226209
 END:VEVENT
 BEGIN:VEVENT
 UID:200190694@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270613T163000Z
 DTEND:20270613T183000Z
 SUMMARY:Sunday Gathering
@@ -4314,7 +4299,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190694
 END:VEVENT
 BEGIN:VEVENT
 UID:200273054@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270614T140000Z
 DTEND:20270614T150000Z
 SUMMARY:Altar
@@ -4325,7 +4310,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273054
 END:VEVENT
 BEGIN:VEVENT
 UID:240191736@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270616T133000Z
 DTEND:20270616T143000Z
 SUMMARY:Altar
@@ -4336,7 +4321,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191736
 END:VEVENT
 BEGIN:VEVENT
 UID:222228627@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270617T013000Z
 DTEND:20270617T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4348,7 +4333,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228627
 END:VEVENT
 BEGIN:VEVENT
 UID:222226210@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270618T013000Z
 DTEND:20270618T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4361,7 +4346,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226210
 END:VEVENT
 BEGIN:VEVENT
 UID:200190695@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270620T163000Z
 DTEND:20270620T183000Z
 SUMMARY:Sunday Gathering
@@ -4374,7 +4359,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190695
 END:VEVENT
 BEGIN:VEVENT
 UID:200273055@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270621T140000Z
 DTEND:20270621T150000Z
 SUMMARY:Altar
@@ -4385,7 +4370,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273055
 END:VEVENT
 BEGIN:VEVENT
 UID:240191737@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270623T133000Z
 DTEND:20270623T143000Z
 SUMMARY:Altar
@@ -4396,7 +4381,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191737
 END:VEVENT
 BEGIN:VEVENT
 UID:222228628@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270624T013000Z
 DTEND:20270624T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4408,7 +4393,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228628
 END:VEVENT
 BEGIN:VEVENT
 UID:222226211@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270625T013000Z
 DTEND:20270625T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4421,7 +4406,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226211
 END:VEVENT
 BEGIN:VEVENT
 UID:200190696@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270627T163000Z
 DTEND:20270627T183000Z
 SUMMARY:Sunday Gathering
@@ -4434,7 +4419,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190696
 END:VEVENT
 BEGIN:VEVENT
 UID:200273056@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270628T140000Z
 DTEND:20270628T150000Z
 SUMMARY:Altar
@@ -4445,7 +4430,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273056
 END:VEVENT
 BEGIN:VEVENT
 UID:240191738@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270630T133000Z
 DTEND:20270630T143000Z
 SUMMARY:Altar
@@ -4456,7 +4441,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191738
 END:VEVENT
 BEGIN:VEVENT
 UID:222225954@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270701T013000Z
 DTEND:20270701T033000Z
 SUMMARY:Español - ALTAR
@@ -4468,7 +4453,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225954
 END:VEVENT
 BEGIN:VEVENT
 UID:222228629@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270701T013000Z
 DTEND:20270701T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4480,7 +4465,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228629
 END:VEVENT
 BEGIN:VEVENT
 UID:222226212@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270702T013000Z
 DTEND:20270702T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4493,7 +4478,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226212
 END:VEVENT
 BEGIN:VEVENT
 UID:200190697@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270704T163000Z
 DTEND:20270704T183000Z
 SUMMARY:Sunday Gathering
@@ -4506,7 +4491,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190697
 END:VEVENT
 BEGIN:VEVENT
 UID:200273057@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270705T140000Z
 DTEND:20270705T150000Z
 SUMMARY:Altar
@@ -4517,7 +4502,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273057
 END:VEVENT
 BEGIN:VEVENT
 UID:240191739@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270707T133000Z
 DTEND:20270707T143000Z
 SUMMARY:Altar
@@ -4528,7 +4513,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191739
 END:VEVENT
 BEGIN:VEVENT
 UID:222228630@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270708T013000Z
 DTEND:20270708T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4540,7 +4525,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228630
 END:VEVENT
 BEGIN:VEVENT
 UID:222226213@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270709T013000Z
 DTEND:20270709T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4553,7 +4538,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226213
 END:VEVENT
 BEGIN:VEVENT
 UID:200190698@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270711T163000Z
 DTEND:20270711T183000Z
 SUMMARY:Sunday Gathering
@@ -4566,7 +4551,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190698
 END:VEVENT
 BEGIN:VEVENT
 UID:200273058@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270712T140000Z
 DTEND:20270712T150000Z
 SUMMARY:Altar
@@ -4577,7 +4562,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273058
 END:VEVENT
 BEGIN:VEVENT
 UID:240191740@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270714T133000Z
 DTEND:20270714T143000Z
 SUMMARY:Altar
@@ -4588,7 +4573,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191740
 END:VEVENT
 BEGIN:VEVENT
 UID:222228631@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270715T013000Z
 DTEND:20270715T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4600,7 +4585,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228631
 END:VEVENT
 BEGIN:VEVENT
 UID:222226214@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270716T013000Z
 DTEND:20270716T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4613,7 +4598,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226214
 END:VEVENT
 BEGIN:VEVENT
 UID:200190699@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270718T163000Z
 DTEND:20270718T183000Z
 SUMMARY:Sunday Gathering
@@ -4626,7 +4611,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190699
 END:VEVENT
 BEGIN:VEVENT
 UID:200273059@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270719T140000Z
 DTEND:20270719T150000Z
 SUMMARY:Altar
@@ -4637,7 +4622,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273059
 END:VEVENT
 BEGIN:VEVENT
 UID:240191741@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270721T133000Z
 DTEND:20270721T143000Z
 SUMMARY:Altar
@@ -4648,7 +4633,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191741
 END:VEVENT
 BEGIN:VEVENT
 UID:222228632@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270722T013000Z
 DTEND:20270722T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4660,7 +4645,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228632
 END:VEVENT
 BEGIN:VEVENT
 UID:222226215@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270723T013000Z
 DTEND:20270723T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4673,7 +4658,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226215
 END:VEVENT
 BEGIN:VEVENT
 UID:200190700@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270725T163000Z
 DTEND:20270725T183000Z
 SUMMARY:Sunday Gathering
@@ -4686,7 +4671,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190700
 END:VEVENT
 BEGIN:VEVENT
 UID:200273060@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270726T140000Z
 DTEND:20270726T150000Z
 SUMMARY:Altar
@@ -4697,7 +4682,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273060
 END:VEVENT
 BEGIN:VEVENT
 UID:240191742@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270728T133000Z
 DTEND:20270728T143000Z
 SUMMARY:Altar
@@ -4708,7 +4693,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191742
 END:VEVENT
 BEGIN:VEVENT
 UID:222225955@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270729T013000Z
 DTEND:20270729T033000Z
 SUMMARY:Español - ALTAR
@@ -4720,7 +4705,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225955
 END:VEVENT
 BEGIN:VEVENT
 UID:222228633@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270729T013000Z
 DTEND:20270729T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4732,7 +4717,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228633
 END:VEVENT
 BEGIN:VEVENT
 UID:222226216@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270730T013000Z
 DTEND:20270730T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4745,7 +4730,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226216
 END:VEVENT
 BEGIN:VEVENT
 UID:200190701@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270801T163000Z
 DTEND:20270801T183000Z
 SUMMARY:Sunday Gathering
@@ -4758,7 +4743,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190701
 END:VEVENT
 BEGIN:VEVENT
 UID:200273061@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270802T140000Z
 DTEND:20270802T150000Z
 SUMMARY:Altar
@@ -4769,7 +4754,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273061
 END:VEVENT
 BEGIN:VEVENT
 UID:240191743@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270804T133000Z
 DTEND:20270804T143000Z
 SUMMARY:Altar
@@ -4780,7 +4765,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191743
 END:VEVENT
 BEGIN:VEVENT
 UID:222228634@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270805T013000Z
 DTEND:20270805T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4792,7 +4777,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228634
 END:VEVENT
 BEGIN:VEVENT
 UID:222226217@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270806T013000Z
 DTEND:20270806T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4805,7 +4790,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226217
 END:VEVENT
 BEGIN:VEVENT
 UID:200190702@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270808T163000Z
 DTEND:20270808T183000Z
 SUMMARY:Sunday Gathering
@@ -4818,7 +4803,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190702
 END:VEVENT
 BEGIN:VEVENT
 UID:200273062@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270809T140000Z
 DTEND:20270809T150000Z
 SUMMARY:Altar
@@ -4829,7 +4814,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273062
 END:VEVENT
 BEGIN:VEVENT
 UID:240191744@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270811T133000Z
 DTEND:20270811T143000Z
 SUMMARY:Altar
@@ -4840,7 +4825,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191744
 END:VEVENT
 BEGIN:VEVENT
 UID:222228635@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270812T013000Z
 DTEND:20270812T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4852,7 +4837,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228635
 END:VEVENT
 BEGIN:VEVENT
 UID:222226218@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270813T013000Z
 DTEND:20270813T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4865,7 +4850,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226218
 END:VEVENT
 BEGIN:VEVENT
 UID:200190703@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270815T163000Z
 DTEND:20270815T183000Z
 SUMMARY:Sunday Gathering
@@ -4878,7 +4863,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190703
 END:VEVENT
 BEGIN:VEVENT
 UID:200273063@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270816T140000Z
 DTEND:20270816T150000Z
 SUMMARY:Altar
@@ -4889,7 +4874,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273063
 END:VEVENT
 BEGIN:VEVENT
 UID:240191745@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270818T133000Z
 DTEND:20270818T143000Z
 SUMMARY:Altar
@@ -4900,7 +4885,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191745
 END:VEVENT
 BEGIN:VEVENT
 UID:222228636@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270819T013000Z
 DTEND:20270819T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4912,7 +4897,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228636
 END:VEVENT
 BEGIN:VEVENT
 UID:222226219@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270820T013000Z
 DTEND:20270820T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4925,7 +4910,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226219
 END:VEVENT
 BEGIN:VEVENT
 UID:200190704@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270822T163000Z
 DTEND:20270822T183000Z
 SUMMARY:Sunday Gathering
@@ -4938,7 +4923,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190704
 END:VEVENT
 BEGIN:VEVENT
 UID:200273064@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270823T140000Z
 DTEND:20270823T150000Z
 SUMMARY:Altar
@@ -4949,7 +4934,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273064
 END:VEVENT
 BEGIN:VEVENT
 UID:240191746@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270825T133000Z
 DTEND:20270825T143000Z
 SUMMARY:Altar
@@ -4960,7 +4945,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191746
 END:VEVENT
 BEGIN:VEVENT
 UID:222225956@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270826T013000Z
 DTEND:20270826T033000Z
 SUMMARY:Español - ALTAR
@@ -4972,7 +4957,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225956
 END:VEVENT
 BEGIN:VEVENT
 UID:222228637@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270826T013000Z
 DTEND:20270826T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -4984,7 +4969,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228637
 END:VEVENT
 BEGIN:VEVENT
 UID:222226220@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270827T013000Z
 DTEND:20270827T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -4997,7 +4982,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226220
 END:VEVENT
 BEGIN:VEVENT
 UID:200190705@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270829T163000Z
 DTEND:20270829T183000Z
 SUMMARY:Sunday Gathering
@@ -5010,7 +4995,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190705
 END:VEVENT
 BEGIN:VEVENT
 UID:200273065@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270830T140000Z
 DTEND:20270830T150000Z
 SUMMARY:Altar
@@ -5021,7 +5006,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273065
 END:VEVENT
 BEGIN:VEVENT
 UID:240191747@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270901T133000Z
 DTEND:20270901T143000Z
 SUMMARY:Altar
@@ -5032,7 +5017,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191747
 END:VEVENT
 BEGIN:VEVENT
 UID:222228638@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270902T013000Z
 DTEND:20270902T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5044,7 +5029,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228638
 END:VEVENT
 BEGIN:VEVENT
 UID:222226221@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270903T013000Z
 DTEND:20270903T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5057,7 +5042,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226221
 END:VEVENT
 BEGIN:VEVENT
 UID:200190706@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270905T163000Z
 DTEND:20270905T183000Z
 SUMMARY:Sunday Gathering
@@ -5070,7 +5055,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190706
 END:VEVENT
 BEGIN:VEVENT
 UID:200273066@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270906T140000Z
 DTEND:20270906T150000Z
 SUMMARY:Altar
@@ -5081,7 +5066,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273066
 END:VEVENT
 BEGIN:VEVENT
 UID:240191748@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270908T133000Z
 DTEND:20270908T143000Z
 SUMMARY:Altar
@@ -5092,7 +5077,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191748
 END:VEVENT
 BEGIN:VEVENT
 UID:222228639@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270909T013000Z
 DTEND:20270909T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5104,7 +5089,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228639
 END:VEVENT
 BEGIN:VEVENT
 UID:222226222@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270910T013000Z
 DTEND:20270910T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5117,7 +5102,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226222
 END:VEVENT
 BEGIN:VEVENT
 UID:200190707@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270912T163000Z
 DTEND:20270912T183000Z
 SUMMARY:Sunday Gathering
@@ -5130,7 +5115,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200190707
 END:VEVENT
 BEGIN:VEVENT
 UID:200273067@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270913T140000Z
 DTEND:20270913T150000Z
 SUMMARY:Altar
@@ -5141,7 +5126,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200273067
 END:VEVENT
 BEGIN:VEVENT
 UID:240191749@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270915T133000Z
 DTEND:20270915T143000Z
 SUMMARY:Altar
@@ -5152,7 +5137,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191749
 END:VEVENT
 BEGIN:VEVENT
 UID:222228640@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270916T013000Z
 DTEND:20270916T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5164,7 +5149,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228640
 END:VEVENT
 BEGIN:VEVENT
 UID:222226223@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270917T013000Z
 DTEND:20270917T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5177,7 +5162,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226223
 END:VEVENT
 BEGIN:VEVENT
 UID:200466699@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270919T163000Z
 DTEND:20270919T183000Z
 SUMMARY:Sunday Gathering
@@ -5190,7 +5175,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200466699
 END:VEVENT
 BEGIN:VEVENT
 UID:200552822@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270920T140000Z
 DTEND:20270920T150000Z
 SUMMARY:Altar
@@ -5201,7 +5186,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/200552822
 END:VEVENT
 BEGIN:VEVENT
 UID:240191750@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270922T133000Z
 DTEND:20270922T143000Z
 SUMMARY:Altar
@@ -5212,7 +5197,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191750
 END:VEVENT
 BEGIN:VEVENT
 UID:222228641@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270923T013000Z
 DTEND:20270923T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5224,7 +5209,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228641
 END:VEVENT
 BEGIN:VEVENT
 UID:222226224@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270924T013000Z
 DTEND:20270924T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5237,7 +5222,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226224
 END:VEVENT
 BEGIN:VEVENT
 UID:201202008@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270926T163000Z
 DTEND:20270926T183000Z
 SUMMARY:Sunday Gathering
@@ -5250,7 +5235,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/201202008
 END:VEVENT
 BEGIN:VEVENT
 UID:201269426@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270927T140000Z
 DTEND:20270927T150000Z
 SUMMARY:Altar
@@ -5261,7 +5246,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/201269426
 END:VEVENT
 BEGIN:VEVENT
 UID:240191751@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270929T133000Z
 DTEND:20270929T143000Z
 SUMMARY:Altar
@@ -5272,7 +5257,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191751
 END:VEVENT
 BEGIN:VEVENT
 UID:222225957@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270930T013000Z
 DTEND:20270930T033000Z
 SUMMARY:Español - ALTAR
@@ -5284,7 +5269,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225957
 END:VEVENT
 BEGIN:VEVENT
 UID:222228642@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20270930T013000Z
 DTEND:20270930T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5296,7 +5281,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228642
 END:VEVENT
 BEGIN:VEVENT
 UID:222226225@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271001T013000Z
 DTEND:20271001T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5309,7 +5294,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226225
 END:VEVENT
 BEGIN:VEVENT
 UID:201920399@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271003T163000Z
 DTEND:20271003T183000Z
 SUMMARY:Sunday Gathering
@@ -5322,7 +5307,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/201920399
 END:VEVENT
 BEGIN:VEVENT
 UID:201988361@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271004T140000Z
 DTEND:20271004T150000Z
 SUMMARY:Altar
@@ -5333,7 +5318,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/201988361
 END:VEVENT
 BEGIN:VEVENT
 UID:240191752@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271006T133000Z
 DTEND:20271006T143000Z
 SUMMARY:Altar
@@ -5344,7 +5329,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191752
 END:VEVENT
 BEGIN:VEVENT
 UID:222228643@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271007T013000Z
 DTEND:20271007T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5356,7 +5341,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228643
 END:VEVENT
 BEGIN:VEVENT
 UID:222226226@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271008T013000Z
 DTEND:20271008T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5369,7 +5354,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226226
 END:VEVENT
 BEGIN:VEVENT
 UID:202557503@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271010T163000Z
 DTEND:20271010T183000Z
 SUMMARY:Sunday Gathering
@@ -5382,7 +5367,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/202557503
 END:VEVENT
 BEGIN:VEVENT
 UID:202619933@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271011T140000Z
 DTEND:20271011T150000Z
 SUMMARY:Altar
@@ -5393,7 +5378,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/202619933
 END:VEVENT
 BEGIN:VEVENT
 UID:240191753@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271013T133000Z
 DTEND:20271013T143000Z
 SUMMARY:Altar
@@ -5404,7 +5389,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191753
 END:VEVENT
 BEGIN:VEVENT
 UID:222228644@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271014T013000Z
 DTEND:20271014T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5416,7 +5401,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228644
 END:VEVENT
 BEGIN:VEVENT
 UID:222226227@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271015T013000Z
 DTEND:20271015T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5429,7 +5414,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226227
 END:VEVENT
 BEGIN:VEVENT
 UID:203179965@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271017T163000Z
 DTEND:20271017T183000Z
 SUMMARY:Sunday Gathering
@@ -5442,7 +5427,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/203179965
 END:VEVENT
 BEGIN:VEVENT
 UID:203286613@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271018T140000Z
 DTEND:20271018T150000Z
 SUMMARY:Altar
@@ -5453,7 +5438,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/203286613
 END:VEVENT
 BEGIN:VEVENT
 UID:240191754@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271020T133000Z
 DTEND:20271020T143000Z
 SUMMARY:Altar
@@ -5464,7 +5449,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191754
 END:VEVENT
 BEGIN:VEVENT
 UID:222228645@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271021T013000Z
 DTEND:20271021T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5476,7 +5461,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228645
 END:VEVENT
 BEGIN:VEVENT
 UID:222226228@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271022T013000Z
 DTEND:20271022T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
@@ -5489,7 +5474,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222226228
 END:VEVENT
 BEGIN:VEVENT
 UID:203745160@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271024T163000Z
 DTEND:20271024T183000Z
 SUMMARY:Sunday Gathering
@@ -5502,7 +5487,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/203745160
 END:VEVENT
 BEGIN:VEVENT
 UID:203850393@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271025T140000Z
 DTEND:20271025T150000Z
 SUMMARY:Altar
@@ -5513,7 +5498,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/203850393
 END:VEVENT
 BEGIN:VEVENT
 UID:240191755@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271027T133000Z
 DTEND:20271027T143000Z
 SUMMARY:Altar
@@ -5524,7 +5509,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/240191755
 END:VEVENT
 BEGIN:VEVENT
 UID:222225958@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271028T013000Z
 DTEND:20271028T033000Z
 SUMMARY:Español - ALTAR
@@ -5536,7 +5521,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222225958
 END:VEVENT
 BEGIN:VEVENT
 UID:222228646@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271028T013000Z
 DTEND:20271028T033000Z
 SUMMARY:Español - Table (Nipomo/ Santa Maria)
@@ -5548,7 +5533,7 @@ URL:https://radiantcentralcoast.churchcenter.com/calendar/event/222228646
 END:VEVENT
 BEGIN:VEVENT
 UID:222226229@radiantcentralcoast.churchcenter.com
-DTSTAMP:20261030T194835Z
+DTSTAMP:20261031T005714Z
 DTSTART:20271029T013000Z
 DTEND:20271029T033000Z
 SUMMARY:Español - Small Groups (Men\, Women\, Youth)
