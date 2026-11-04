@@ -30,11 +30,24 @@ def get(url, headers=None, tries=3):
 
 
 def visitor_token():
-    """Church Center gives every visitor a short-lived read-only token in the page."""
+    """Church Center gives every visitor a short-lived read-only token.
+
+    Since Nov 2026 it comes from POST /sessions/tokens on the church's
+    Church Center site; older pages embedded it in the calendar page, so that
+    is kept as a fallback."""
+    try:
+        req = urllib.request.Request(f"https://{SUBDOMAIN}.churchcenter.com/sessions/tokens", data=b"", method="POST",
+                                     headers={"User-Agent": UA, "Accept": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            tok = json.loads(r.read().decode("utf-8"))["data"]["attributes"]["token"]
+        if tok:
+            return tok
+    except Exception as e:
+        print("token endpoint failed, trying the page:", e, file=sys.stderr)
     page = get(CAL_PAGE)
     m = re.search(r'\\"token\\",\\"([A-Za-z0-9._\-]{20,})\\"', page) or re.search(r'"token"\s*:\s*"([A-Za-z0-9._\-]{20,})"', page)
     if not m:
-        raise SystemExit("Couldn't find the Church Center visitor token; the page layout may have changed.")
+        raise SystemExit("Couldn't get a Church Center visitor token; Church Center may have changed again.")
     return m.group(1)
 
 
