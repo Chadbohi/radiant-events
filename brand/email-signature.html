@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Radiant Email Signature</title>
+<style>
+body{margin:0;background:#FAF6F5;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#474D47;}
+.wrap{max-width:760px;margin:48px auto;padding:0 24px;}
+h1{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:#796D63;margin:0 0 18px;font-weight:600;}
+.card{background:#fff;border:1px solid rgba(71,77,71,.15);border-radius:10px;padding:32px;}
+.bar{display:flex;align-items:center;gap:16px;margin-top:22px;}
+button{background:#474D47;color:#FCF2BF;border:0;border-radius:999px;padding:14px 28px;font:600 12px "Helvetica Neue",Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;cursor:pointer;}
+#ok{font-size:14px;color:#474D47;opacity:0;transition:opacity .2s}
+ol{margin:26px 0 0;padding-left:20px;font-size:14px;line-height:1.6;}
+</style></head><body><div class="wrap">
+<h1>Radiant Church &middot; Email signature</h1>
+<div class="card"><div id="sig"><!-- Radiant Church email signature: Chad Bohi (compact, phone-first; Radiant Church + All Eyes on Jesus at the bottom) -->
+<table cellpadding="0" cellspacing="0" border="0" role="presentation" style="border-collapse:collapse;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#474D47;">
+  <tr>
+    <td style="padding:0 0 0 10px;border-left:2px solid #BEAD93;">
+      <span style="font-family:'Avenir Next Condensed','Arial Narrow','Helvetica Neue',Arial,sans-serif;font-size:16px;line-height:20px;font-weight:700;text-transform:uppercase;letter-spacing:0.4px;color:#474D47;">Chad Bohi,</span><span style="font-size:10px;line-height:20px;font-weight:600;letter-spacing:2.2px;text-transform:uppercase;color:#796D63;">&nbsp;Pastor</span><br>
+      <span style="font-size:13px;line-height:19px;"><a href="tel:+18055409784" style="color:#474D47;text-decoration:none;">805.540.9784</a><span style="color:#BEAD93;">&nbsp;&middot;&nbsp;</span><a href="https://radiantcentralcoast.com" style="color:#474D47;text-decoration:none;font-weight:600;">radiantcentralcoast.com</a></span>
+      <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="border-collapse:collapse;margin-top:10px;">
+        <tr><td style="padding:0 0 5px 0;"><a href="https://radiantcentralcoast.com" style="text-decoration:none;"><img src="https://chadbohi.github.io/radiant-events/brand/email-signature-wordmark.png" width="170" height="12" alt="RADIANT CHURCH" style="display:block;width:170px;height:12px;border:0;font-family:'Helvetica Neue',Arial,sans-serif;font-size:11px;line-height:12px;font-weight:700;letter-spacing:3px;color:#474D47;"></a></td></tr>
+        <tr><td style="font-size:9.5px;line-height:13px;font-weight:700;letter-spacing:2.6px;text-transform:uppercase;color:#796D63;">All eyes on Jesus</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</div></div>
+<div class="bar"><button id="copy" type="button">Copy signature</button><span id="ok">Copied. Now paste it into Mail.</span></div>
+<ol>
+<li>Open <b>Mail</b> and press <b>&#8984; ,</b> (Settings), then go to <b>Signatures</b>.</li>
+<li>Pick <b>chad@radiantcentralcoast.com</b> on the left and click <b>+</b>. Name it <b>Radiant</b>.</li>
+<li>Uncheck <b>&ldquo;Always match my default message font&rdquo;</b>.</li>
+<li>Click into the signature box on the right, press <b>&#8984;A</b> to select the placeholder, then <b>&#8984;V</b> to paste.</li>
+<li>At the bottom, set <b>Choose Signature</b> to <b>Radiant</b>, then close Settings.</li>
+</ol>
+</div>
+<script>
+document.getElementById('copy').addEventListener('click',function(){
+  var el=document.getElementById('sig'), r=document.createRange(); r.selectNodeContents(el);
+  var s=window.getSelection(); s.removeAllRanges(); s.addRange(r);
+  var ok=false; try{ok=document.execCommand('copy');}catch(e){}
+  s.removeAllRanges();
+  document.getElementById('ok').textContent= ok ? 'Copied. Now paste it into Mail.' : 'Select the signature above and press \u2318C.';
+  document.getElementById('ok').style.opacity=1;
+});
+</script></body></html>
